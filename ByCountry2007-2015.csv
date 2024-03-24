@@ -1,0 +1,2105 @@
+CODE,Countries,Year,FDI Value in Dirhams,Level
+826,United Kingdom of Great Britain and Northern Ireland,2015," 54,696,492,101 ",UAE
+999,Other,2015," 29,153,929,456 ",UAE
+840,United States of America,2015," 25,164,995,442 ",UAE
+356,INDIA,2015," 23,380,217,154 ",UAE
+250,FRANCE,2015," 20,593,723,432 ",UAE
+364,Iran (Islamic Republic of),2015," 16,733,449,147 ",UAE
+682,SAUDI ARABIA,2015," 16,157,465,842 ",UAE
+414,KUWAIT,2015," 15,490,941,449 ",UAE
+40,AUSTRIA,2015," 14,480,280,765 ",UAE
+392,JAPAN,2015," 14,452,798,180 ",UAE
+756,SWITZERLAND,2015," 11,735,281,663 ",UAE
+344,"China, Hong Kong Special Administrative Region",2015," 11,586,845,982 ",UAE
+528,NETHERLANDS,2015," 11,011,635,938 ",UAE
+92,British Virgin Islands,2015," 10,863,001,251 ",UAE
+276,GERMANY,2015," 10,244,994,480 ",UAE
+702,SINGAPORE,2015," 8,802,468,863 ",UAE
+410,Republic of Korea,2015," 8,437,317,186 ",UAE
+156,CHINA,2015," 7,534,696,601 ",UAE
+586,PAKISTAN,2015," 6,896,266,452 ",UAE
+48,BAHRAIN,2015," 5,036,081,911 ",UAE
+60,BERMUDA,2015," 4,686,815,609 ",UAE
+422,LEBANON,2015," 4,660,077,131 ",UAE
+400,JORDAN,2015," 4,505,236,189 ",UAE
+196,CYPRUS,2015," 4,348,355,120 ",UAE
+136,CAYMAN ISLANDS,2015," 3,539,576,703 ",UAE
+634,QATAR,2015," 3,454,293,934 ",UAE
+818,EGYPT,2015," 3,376,688,704 ",UAE
+434,Libya,2015," 3,308,445,105 ",UAE
+480,MAURITIUS,2015," 3,272,566,694 ",UAE
+643,RUSSIAN FEDERATION,2015," 3,197,688,475 ",UAE
+56,BELGIUM,2015," 2,681,028,617 ",UAE
+124,CANADA,2015," 2,593,656,792 ",UAE
+512,OMAN,2015," 2,460,568,305 ",UAE
+380,ITALY,2015," 2,087,970,599 ",UAE
+591,PANAMA,2015," 2,011,343,106 ",UAE
+458,MALAYSIA,2015," 1,629,786,318 ",UAE
+442,LUXEMBOURG,2015," 1,567,048,352 ",UAE
+710,SOUTH AFRICA,2015," 1,424,211,152 ",UAE
+760,SYRIAN ARAB REPUBLIC,2015," 1,290,576,519 ",UAE
+36,AUSTRALIA,2015," 1,209,355,216 ",UAE
+12,ALGERIA,2015," 1,200,830,995 ",UAE
+438,LIECHTENSTEIN,2015," 1,115,344,525 ",UAE
+368,IRAQ,2015," 1,081,611,205 ",UAE
+398,KAZAKHSTAN,2015," 1,055,502,168 ",UAE
+792,TURKEY,2015," 1,016,997,591 ",UAE
+208,DENMARK,2015," 964,827,876 ",UAE
+470,MALTA,2015," 960,718,416 ",UAE
+724,SPAIN,2015," 837,720,247 ",UAE
+372,IRELAND,2015," 782,195,302 ",UAE
+752,SWEDEN,2015," 769,613,554 ",UAE
+578,NORWAY,2015," 677,141,877 ",UAE
+156,TAIWAN,2015," 667,004,236 ",UAE
+44,BAHAMAS,2015," 545,437,842 ",UAE
+729,SUDAN,2015," 477,154,505 ",UAE
+4,AFGHANISTAN,2015," 473,972,742 ",UAE
+887,YEMEN,2015," 424,434,879 ",UAE
+566,NIGERIA,2015," 421,978,573 ",UAE
+748,Swaziland,2015," 405,861,400 ",UAE
+50,BANGLADESH,2015," 378,181,091 ",UAE
+804,UKRAINE,2015," 369,008,798 ",UAE
+300,GREECE,2015," 344,611,454 ",UAE
+430,LIBERIA,2015," 309,176,019 ",UAE
+833,ISLE OF MAN,2015," 302,909,969 ",UAE
+31,AZERBAIJAN,2015," 288,990,366 ",UAE
+554,NEW ZEALAND,2015," 237,454,880 ",UAE
+404,KENYA,2015," 224,990,966 ",UAE
+834,United Republic of Tanzania,2015," 210,749,303 ",UAE
+850,United States Virgin Islands,2015," 207,628,058 ",UAE
+620,PORTUGAL,2015," 204,184,778 ",UAE
+275,State of Palestine,2015," 202,858,992 ",UAE
+860,UZBEKISTAN,2015," 193,216,985 ",UAE
+504,MOROCCO,2015," 170,469,706 ",UAE
+659,Saint Kitts and Nevis,2015," 165,694,424 ",UAE
+604,PERU,2015," 165,132,863 ",UAE
+616,POLAND,2015," 134,955,955 ",UAE
+203,CZECH REPUBLIC,2015," 129,732,819 ",UAE
+76,BRAZIL,2015," 123,079,825 ",UAE
+788,TUNISIA,2015," 122,971,549 ",UAE
+174,COMOROS,2015," 116,085,645 ",UAE
+100,BULGARIA,2015," 95,660,065 ",UAE
+246,FINLAND,2015," 92,282,657 ",UAE
+608,PHILIPPINES,2015," 82,098,091 ",UAE
+51,Armenia,2015," 78,941,358 ",UAE
+348,HUNGARY,2015," 76,281,970 ",UAE
+894,ZAMBIA,2015," 64,448,520 ",UAE
+764,THAILAND,2015," 64,142,787 ",UAE
+231,ETHIOPIA,2015," 62,616,750 ",UAE
+144,SRI LANKA,2015," 61,842,564 ",UAE
+795,TURKMENISTAN,2015," 56,420,097 ",UAE
+24,ANGOLA,2015," 54,223,650 ",UAE
+762,TAJIKISTAN,2015," 51,801,970 ",UAE
+428,LATVIA,2015," 47,331,968 ",UAE
+478,MAURITANIA,2015," 44,328,561 ",UAE
+524,NEPAL,2015," 43,300,012 ",UAE
+642,ROMANIA,2015," 41,726,103 ",UAE
+688,Serbia,2015," 32,077,735 ",UAE
+266,GABON,2015," 31,146,030 ",UAE
+705,SLOVENIA,2015," 30,491,628 ",UAE
+360,INDONESIA,2015," 29,385,994 ",UAE
+96,BRUNEI DARUSSALAM,2015," 29,085,674 ",UAE
+152,CHILE,2015," 27,790,991 ",UAE
+288,GHANA,2015," 27,762,304 ",UAE
+112,BELARUS,2015," 26,769,373 ",UAE
+170,COLOMBIA,2015," 26,496,600 ",UAE
+690,SEYCHELLES,2015," 24,133,731 ",UAE
+212,DOMINICA,2015," 22,318,725 ",UAE
+84,Belize,2015," 21,986,115 ",UAE
+191,CROATIA,2015," 20,449,140 ",UAE
+232,Eritrea,2015," 17,390,548 ",UAE
+268,GEORGIA,2015," 17,346,384 ",UAE
+214,Dominican Republic,2015," 16,959,604 ",UAE
+807,The former Yugoslav Republic of Macedonia,2015," 15,358,983 ",UAE
+703,SLOVAKIA,2015," 14,962,492 ",UAE
+32,ARGENTINA,2015," 14,943,733 ",UAE
+716,ZIMBABWE,2015," 14,746,208 ",UAE
+417,Kyrgyzstan,2015," 14,360,944 ",UAE
+262,DJIBOUTI,2015," 13,603,868 ",UAE
+440,LITHUANIA,2015," 13,481,536 ",UAE
+800,UGANDA,2015," 13,327,641 ",UAE
+484,MEXICO,2015," 13,073,234 ",UAE
+324,Guinea,2015," 12,929,444 ",UAE
+646,Rwanda,2015," 11,872,600 ",UAE
+258,FRENCH POLYNESIA,2015," 11,121,895 ",UAE
+686,SENEGAL,2015," 10,061,058 ",UAE
+562,NIGER,2015," 9,859,003 ",UAE
+70,BOSNIA AND HERZEGOVINA,2015," 9,770,629 ",UAE
+454,Malawi,2015," 7,844,664 ",UAE
+222,EL SALVADOR,2015," 5,866,993 ",UAE
+308,Grenada,2015," 5,839,160 ",UAE
+8,ALBANIA,2015," 5,797,144 ",UAE
+233,ESTONIA,2015," 5,777,933 ",UAE
+862,Venezuela (Bolivarian Republic of),2015," 5,718,618 ",UAE
+508,MOZAMBIQUE,2015," 5,458,837 ",UAE
+72,BOTSWANA,2015," 5,420,782 ",UAE
+704,VIET NAM,2015," 5,328,169 ",UAE
+204,Benin,2015," 4,467,685 ",UAE
+52,BARBADOS,2015," 4,296,540 ",UAE
+178,CONGO,2015," 4,247,620 ",UAE
+104,Myanmar,2015," 3,980,133 ",UAE
+304,GREENLAND,2015," 3,829,327 ",UAE
+498,Republic of Moldova,2015," 3,399,668 ",UAE
+120,CAMEROON,2015," 3,004,431 ",UAE
+388,JAMAICA,2015," 2,990,547 ",UAE
+706,SOMALIA,2015," 2,970,797 ",UAE
+462,MALDIVES,2015," 2,942,272 ",UAE
+148,CHAD,2015," 2,689,832 ",UAE
+858,URUGUAY,2015," 2,448,866 ",UAE
+352,ICELAND,2015," 2,402,944 ",UAE
+384,Cote d'Ivoire,2015," 2,300,555 ",UAE
+68,Bolivia (Plurinational State of),2015," 2,214,021 ",UAE
+598,Papua New Guinea,2015," 2,153,140 ",UAE
+584,MARSHALL ISLANDS,2015," 2,149,444 ",UAE
+192,CUBA,2015," 2,061,438 ",UAE
+516,NAMIBIA,2015," 1,960,437 ",UAE
+108,Burundi,2015," 1,682,047 ",UAE
+28,Antigua and Barbuda,2015," 1,325,000 ",UAE
+320,GUATEMALA,2015," 1,236,200 ",UAE
+426,Lesotho,2015," 1,184,100 ",UAE
+218,Ecuador,2015," 1,168,000 ",UAE
+694,Sierra Leone,2015," 981,000 ",UAE
+496,MONGOLIA,2015," 844,251 ",UAE
+332,Haiti,2015," 832,944 ",UAE
+466,Mali,2015," 791,857 ",UAE
+585,Palau,2015," 757,500 ",UAE
+140,CENTRAL AFRICAN REPUBLIC,2015," 694,875 ",UAE
+740,Suriname,2015," 466,944 ",UAE
+340,HONDURAS,2015," 449,326 ",UAE
+854,Burkina Faso,2015," 387,143 ",UAE
+630,Puerto Rico,2015," 144,500 ",UAE
+20,ANDORRA,2015, -   ,UAE
+116,CAMBODIA,2015, -   ,UAE
+132,Cabo Verde,2015, -   ,UAE
+188,COSTA RICA,2015, -   ,UAE
+242,FIJI,2015, -   ,UAE
+270,GAMBIA,2015, -   ,UAE
+376,ISRAEL,2015, -   ,UAE
+580,NORTHERN MARIANA ISLANDS,2015, -   ,UAE
+600,PARAGUAY,2015, -   ,UAE
+663,Saint Martin (French part),2015, -   ,UAE
+882,SAMOA,2015, -   ,UAE
+446,"China, Macao Special Administrative Region",2015, -   ,UAE
+450,Madagascar,2015, -   ,UAE
+533,Aruba,2015, -   ,UAE
+768,Togo,2015, -   ,UAE
+4,Afghanistan,2014," 350,468,510 ",UAE
+8,Albania,2014," 5,797,144 ",UAE
+12,Algeria,2014," 1,189,558,718 ",UAE
+16,American Samoa,2014, -   ,UAE
+20,Andorra,2014, -   ,UAE
+24,Angola,2014," 10,438,519 ",UAE
+28,Antigua and Barbuda,2014, -   ,UAE
+31,Azerbaijan,2014," 219,473,307 ",UAE
+32,Argentina,2014," 13,533,733 ",UAE
+36,Australia,2014," 899,861,056 ",UAE
+40,Austria,2014," 11,221,728,659 ",UAE
+44,Bahamas,2014," 545,360,111 ",UAE
+48,Bahrain,2014," 6,720,190,332 ",UAE
+50,Bangladesh,2014," 341,731,502 ",UAE
+51,Armenia,2014," 74,155,005 ",UAE
+52,Barbados,2014," 4,296,540 ",UAE
+56,Belgium,2014," 2,829,576,170 ",UAE
+60,Bermuda,2014," 3,784,657,220 ",UAE
+64,Bhutan,2014, -   ,UAE
+68,Bolivia (Plurinational State of),2014," 52,406,623 ",UAE
+70,Bosnia and Herzegovina,2014," 9,124,879 ",UAE
+72,Botswana,2014," 5,915,782 ",UAE
+76,Brazil,2014," 190,158,650 ",UAE
+84,Belize,2014," 21,516,494 ",UAE
+90,Solomon Islands,2014, -   ,UAE
+92,British Virgin Islands,2014," 10,079,536,650 ",UAE
+96,Brunei Darussalam,2014," 2,082,570 ",UAE
+100,Bulgaria,2014," 88,391,928 ",UAE
+104,Myanmar,2014," 2,397,633 ",UAE
+108,Burundi,2014," 1,682,047 ",UAE
+112,Belarus,2014," 26,254,359 ",UAE
+116,Cambodia,2014, -   ,UAE
+120,Cameroon,2014," 3,004,431 ",UAE
+124,Canada,2014," 2,233,646,790 ",UAE
+132,Cabo Verde,2014, -   ,UAE
+136,Cayman Islands,2014," 3,995,952,585 ",UAE
+140,Central African Republic,2014," 694,875 ",UAE
+144,Sri Lanka,2014," 57,535,605 ",UAE
+148,Chad,2014," 1,319,832 ",UAE
+152,Chile,2014," 137,599,923 ",UAE
+156,China,2014," 7,068,935,990 ",UAE
+170,Colombia,2014," 23,090,071 ",UAE
+174,Comoros,2014," 108,460,844 ",UAE
+175,Mayotte,2014, -   ,UAE
+178,Congo,2014," 2,933,070 ",UAE
+180,Democratic Republic of the Congo,2014, -   ,UAE
+184,Cook Islands,2014, -   ,UAE
+188,Costa Rica,2014, -   ,UAE
+191,Croatia,2014," 13,255,867 ",UAE
+192,Cuba,2014," 2,061,438 ",UAE
+196,Cyprus,2014," 3,883,209,638 ",UAE
+203,Czech Republic,2014," 85,540,366 ",UAE
+204,Benin,2014," 2,430,185 ",UAE
+208,Denmark,2014," 807,851,372 ",UAE
+212,Dominica,2014," 17,328,126 ",UAE
+214,Dominican Republic,2014," 10,487,534 ",UAE
+218,Ecuador,2014," 880,000 ",UAE
+222,El Salvador,2014," 5,866,993 ",UAE
+226,Equatorial Guinea,2014, -   ,UAE
+231,Ethiopia,2014," 60,734,245 ",UAE
+232,Eritrea,2014," 16,753,048 ",UAE
+233,Estonia,2014," 1,783,683 ",UAE
+234,Faeroe Islands,2014, -   ,UAE
+238,Falkland Islands (Malvinas),2014, -   ,UAE
+242,Fiji,2014, -   ,UAE
+246,Finland,2014," 54,885,009 ",UAE
+248,Åland Islands,2014, -   ,UAE
+250,France,2014," 20,674,198,266 ",UAE
+254,French Guiana,2014, -   ,UAE
+258,French Polynesia,2014, -   ,UAE
+262,Djibouti,2014," 10,502,668 ",UAE
+266,Gabon,2014," 30,746,030 ",UAE
+268,Georgia,2014," 16,634,937 ",UAE
+270,Gambia,2014, -   ,UAE
+275,State of Palestine,2014," 225,783,741 ",UAE
+276,Germany,2014," 10,891,880,402 ",UAE
+288,Ghana,2014," 15,072,830 ",UAE
+292,Gibraltar,2014, -   ,UAE
+296,Kiribati,2014, -   ,UAE
+300,Greece,2014," 557,852,371 ",UAE
+304,Greenland,2014," 3,829,327 ",UAE
+308,Grenada,2014," 5,362,104 ",UAE
+312,Guadeloupe,2014, -   ,UAE
+316,Guam,2014, -   ,UAE
+320,Guatemala,2014," 1,236,200 ",UAE
+324,Guinea,2014," 12,929,444 ",UAE
+328,Guyana,2014, -   ,UAE
+332,Haiti,2014," 832,944 ",UAE
+336,Holy See,2014, -   ,UAE
+340,Honduras,2014," 449,326 ",UAE
+344,"China, Hong Kong Special Administrative Region",2014," 6,947,303,199 ",UAE
+348,Hungary,2014," 44,005,706 ",UAE
+352,Iceland,2014," 2,402,944 ",UAE
+356,India,2014," 22,118,456,502 ",UAE
+360,Indonesia,2014," 29,163,494 ",UAE
+364,Iran (Islamic Republic of),2014," 12,465,948,857 ",UAE
+368,Iraq,2014," 967,102,515 ",UAE
+372,Ireland,2014," 648,728,568 ",UAE
+376,Israel,2014, -   ,UAE
+380,Italy,2014," 1,508,232,865 ",UAE
+384,Cote d'Ivoire,2014," 1,565,000 ",UAE
+388,Jamaica,2014," 3,385,422 ",UAE
+392,Japan,2014," 12,000,436,419 ",UAE
+398,Kazakhstan,2014," 932,019,194 ",UAE
+400,Jordan,2014," 3,673,044,825 ",UAE
+404,Kenya,2014," 214,245,508 ",UAE
+410,Republic of Korea,2014," 2,870,682,378 ",UAE
+410,Republic of Korea,2014," 3,213,924,067 ",UAE
+414,Kuwait,2014," 14,480,784,563 ",UAE
+417,Kyrgyzstan,2014," 7,616,944 ",UAE
+418,Lao People's Democratic Republic,2014, -   ,UAE
+422,Lebanon,2014," 5,391,952,578 ",UAE
+426,Lesotho,2014," 1,184,100 ",UAE
+428,Latvia,2014," 37,291,128 ",UAE
+430,Liberia,2014," 321,816,300 ",UAE
+434,Libya,2014," 3,391,296,829 ",UAE
+438,Liechtenstein,2014," 1,301,546,864 ",UAE
+440,Lithuania,2014," 11,275,767 ",UAE
+442,Luxembourg,2014," 1,698,115,190 ",UAE
+156,TAIWAN,2014," 598,748,297 ",UAE
+450,Madagascar,2014, -   ,UAE
+454,Malawi,2014," 7,259,664 ",UAE
+458,Malaysia,2014," 1,242,796,743 ",UAE
+462,Maldives,2014," 1,289,803 ",UAE
+466,Mali,2014," 791,857 ",UAE
+470,Malta,2014," 943,930,393 ",UAE
+474,Martinique,2014, -   ,UAE
+478,Mauritania,2014," 49,676,937 ",UAE
+480,Mauritius,2014," 3,196,332,345 ",UAE
+484,Mexico,2014," 12,543,957 ",UAE
+492,Monaco,2014, -   ,UAE
+496,Mongolia,2014, -   ,UAE
+498,Republic of Moldova,2014," 3,223,068 ",UAE
+499,Montenegro,2014, -   ,UAE
+500,Montserrat,2014, -   ,UAE
+504,Morocco,2014," 142,904,698 ",UAE
+508,Mozambique,2014," 5,088,837 ",UAE
+512,Oman,2014," 2,051,680,101 ",UAE
+516,Namibia,2014," 1,960,437 ",UAE
+520,Nauru,2014, -   ,UAE
+524,Nepal,2014," 41,910,987 ",UAE
+528,Netherlands,2014," 9,416,664,106 ",UAE
+531,Curaçao,2014, -   ,UAE
+533,Aruba,2014, -   ,UAE
+534,Sint Maarten (Dutch part),2014, -   ,UAE
+540,New Caledonia,2014, -   ,UAE
+548,Vanuatu,2014, -   ,UAE
+554,New Zealand,2014," 200,168,558 ",UAE
+558,Nicaragua,2014, -   ,UAE
+562,Niger,2014," 8,359,003 ",UAE
+566,Nigeria,2014," 296,795,462 ",UAE
+570,Niue,2014, -   ,UAE
+574,Norfolk Island,2014, -   ,UAE
+578,Norway,2014," 763,158,723 ",UAE
+580,Northern Mariana Islands,2014, -   ,UAE
+583,Micronesia (Federated States of),2014, -   ,UAE
+584,Marshall Islands,2014," 2,149,444 ",UAE
+585,Palau,2014," 600,000 ",UAE
+586,Pakistan,2014," 6,520,502,782 ",UAE
+591,Panama,2014," 1,874,822,207 ",UAE
+598,Papua New Guinea,2014," 2,153,140 ",UAE
+600,Paraguay,2014, -   ,UAE
+604,Peru,2014," 118,631,176 ",UAE
+608,Philippines,2014," 54,122,929 ",UAE
+612,Pitcairn,2014, -   ,UAE
+616,Poland,2014," 103,123,242 ",UAE
+620,Portugal,2014," 160,635,700 ",UAE
+624,Guinea-Bissau,2014, -   ,UAE
+626,Timor-Leste,2014, -   ,UAE
+630,Puerto Rico,2014," 144,500 ",UAE
+634,Qatar,2014," 5,565,453,595 ",UAE
+638,Réunion,2014, -   ,UAE
+642,Romania,2014," 28,026,449 ",UAE
+643,Russian Federation,2014," 2,770,532,351 ",UAE
+646,Rwanda,2014," 7,631,332 ",UAE
+654,Saint Helena,2014, -   ,UAE
+659,Saint Kitts and Nevis,2014," 113,442,518 ",UAE
+660,Anguilla,2014, -   ,UAE
+662,Saint Lucia,2014, -   ,UAE
+663,Saint Martin (French part),2014, -   ,UAE
+666,Saint Pierre and Miquelon,2014, -   ,UAE
+670,Saint Vincent and the Grenadines,2014, -   ,UAE
+674,San Marino,2014, -   ,UAE
+678,Sao Tome and Principe,2014, -   ,UAE
+680,Sark,2014, -   ,UAE
+682,Saudi Arabia,2014," 17,433,739,999 ",UAE
+686,Senegal,2014," 9,739,502 ",UAE
+688,Serbia,2014," 28,805,992 ",UAE
+690,Seychelles,2014," 19,549,358 ",UAE
+694,Sierra Leone,2014," 427,500 ",UAE
+702,Singapore,2014," 8,891,496,186 ",UAE
+703,Slovakia,2014," 12,804,992 ",UAE
+704,Viet Nam,2014," 2,380,307 ",UAE
+705,Slovenia,2014," 9,653,411 ",UAE
+706,Somalia,2014," 2,270,797 ",UAE
+710,South Africa,2014," 1,008,405,262 ",UAE
+716,Zimbabwe,2014," 14,521,008 ",UAE
+724,Spain,2014," 821,367,832 ",UAE
+728,South Sudan,2014, -   ,UAE
+729,Sudan,2014," 394,622,109 ",UAE
+732,Western Sahara,2014, -   ,UAE
+740,Suriname,2014," 466,944 ",UAE
+744,Svalbard and Jan Mayen Islands,2014, -   ,UAE
+748,Swaziland,2014," 17,138,413 ",UAE
+752,Sweden,2014," 605,832,250 ",UAE
+756,Switzerland,2014," 10,242,371,363 ",UAE
+760,Syrian Arab Republic,2014," 1,284,755,374 ",UAE
+762,Tajikistan,2014," 43,859,792 ",UAE
+764,Thailand,2014," 48,131,824 ",UAE
+768,Togo,2014, -   ,UAE
+772,Tokelau,2014, -   ,UAE
+776,Tonga,2014, -   ,UAE
+780,Trinidad and Tobago,2014, -   ,UAE
+784,United Arab Emirates,2014, -   ,UAE
+788,Tunisia,2014," 118,735,074 ",UAE
+792,Turkey,2014," 532,818,950 ",UAE
+795,Turkmenistan,2014," 37,806,883 ",UAE
+796,Turks and Caicos Islands,2014, -   ,UAE
+798,Tuvalu,2014, -   ,UAE
+800,Uganda,2014," 13,041,011 ",UAE
+804,Ukraine,2014," 295,900,192 ",UAE
+807,The former Yugoslav Republic of Macedonia,2014," 12,992,806 ",UAE
+818,Egypt,2014," 2,985,526,339 ",UAE
+826,United Kingdom of Great Britain and Northern Ireland,2014," 46,763,618,397 ",UAE
+830,Channel Islands,2014, -   ,UAE
+831,Guernsey,2014, -   ,UAE
+832,Jersey,2014, -   ,UAE
+833,Isle of Man,2014," 314,411,460 ",UAE
+834,United Republic of Tanzania,2014," 201,599,694 ",UAE
+840,United States of America,2014," 24,221,119,736 ",UAE
+850,United States Virgin Islands,2014," 162,250,389 ",UAE
+854,Burkina Faso,2014," 825,984 ",UAE
+858,Uruguay,2014," 625,000 ",UAE
+860,Uzbekistan,2014," 136,001,272 ",UAE
+862,Venezuela (Bolivarian Republic of),2014," 5,313,674 ",UAE
+876,Wallis and Futuna Islands,2014, -   ,UAE
+882,Samoa,2014, -   ,UAE
+887,Yemen,2014," 386,055,568 ",UAE
+894,Zambia,2014," 60,744,743 ",UAE
+999,Other,2014," 30,134,085,459 ",UAE
+4,Afghanistan,2013," 466,813,501 ",UAE
+8,Albania,2013," 3,719,494 ",UAE
+12,Algeria,2013," 1,160,258,405 ",UAE
+16,American Samoa,2013,,UAE
+20,Andorra,2013,,UAE
+24,Angola,2013," 10,729,858 ",UAE
+28,Antigua and Barbuda,2013,,UAE
+31,Azerbaijan,2013," 331,185,494 ",UAE
+32,Argentina,2013," 128,216,416 ",UAE
+36,Australia,2013," 2,658,006,705 ",UAE
+40,Austria,2013," 9,599,234,004 ",UAE
+44,Bahamas,2013," 198,190,212 ",UAE
+48,Bahrain,2013," 2,533,343,903 ",UAE
+50,Bangladesh,2013," 159,994,331 ",UAE
+51,Armenia,2013," 87,825,311 ",UAE
+52,Barbados,2013," 4,296,540 ",UAE
+56,Belgium,2013," 982,207,220 ",UAE
+60,Bermuda,2013," 2,194,828,001 ",UAE
+64,Bhutan,2013,,UAE
+68,Bolivia (Plurinational State of),2013," 2,489,021 ",UAE
+70,Bosnia and Herzegovina,2013," 37,412,696 ",UAE
+72,Botswana,2013," 6,360,782 ",UAE
+76,Brazil,2013," 165,194,248 ",UAE
+84,Belize,2013," 12,198,308 ",UAE
+90,Solomon Islands,2013,,UAE
+92,British Virgin Islands,2013," 5,894,849,619 ",UAE
+96,Brunei Darussalam,2013," 4,659,422 ",UAE
+100,Bulgaria,2013," 81,209,251 ",UAE
+104,Myanmar,2013," 1,097,230 ",UAE
+108,Burundi,2013," 1,682,047 ",UAE
+112,Belarus,2013," 38,611,421 ",UAE
+116,Cambodia,2013,,UAE
+120,Cameroon,2013," 5,889,059 ",UAE
+124,Canada,2013," 1,686,991,129 ",UAE
+132,Cabo Verde,2013,,UAE
+136,Cayman Islands,2013," 3,582,743,292 ",UAE
+140,Central African Republic,2013," 923,035 ",UAE
+144,Sri Lanka,2013," 62,884,693 ",UAE
+148,Chad,2013," 2,019,832 ",UAE
+152,Chile,2013," 62,817,503 ",UAE
+156,China,2013," 4,789,162,245 ",UAE
+170,Colombia,2013," 6,146,077 ",UAE
+174,Comoros,2013," 3,462,383 ",UAE
+175,Mayotte,2013,,UAE
+178,Congo,2013," 4,090,570 ",UAE
+180,Democratic Republic of the Congo,2013,,UAE
+184,Cook Islands,2013,,UAE
+188,Costa Rica,2013, -   ,UAE
+191,Croatia,2013," 9,887,851 ",UAE
+192,Cuba,2013," 2,649,688 ",UAE
+196,Cyprus,2013," 3,048,605,100 ",UAE
+203,Czech Republic,2013," 62,131,728 ",UAE
+204,Benin,2013," 2,430,185 ",UAE
+208,Denmark,2013," 796,196,788 ",UAE
+212,Dominica,2013," 9,326,736 ",UAE
+214,Dominican Republic,2013," 17,410,921 ",UAE
+218,Ecuador,2013," 1,515,750 ",UAE
+222,El Salvador,2013," 7,242,546 ",UAE
+226,Equatorial Guinea,2013,,UAE
+231,Ethiopia,2013," 66,416,252 ",UAE
+232,Eritrea,2013," 12,365,504 ",UAE
+233,Estonia,2013," 10,098,991 ",UAE
+234,Faeroe Islands,2013,,UAE
+238,Falkland Islands (Malvinas),2013,,UAE
+242,Fiji,2013,,UAE
+246,Finland,2013," 76,175,959 ",UAE
+248,Åland Islands,2013,,UAE
+250,France,2013," 18,667,414,398 ",UAE
+254,French Guiana,2013,,UAE
+258,French Polynesia,2013,,UAE
+262,Djibouti,2013," 11,749,793 ",UAE
+266,Gabon,2013," 30,075,305 ",UAE
+268,Georgia,2013," 7,972,916 ",UAE
+270,Gambia,2013,,UAE
+275,State of Palestine,2013," 154,374,528 ",UAE
+276,Germany,2013," 7,565,180,904 ",UAE
+288,Ghana,2013," 2,566,686 ",UAE
+292,Gibraltar,2013, -   ,UAE
+296,Kiribati,2013,,UAE
+300,Greece,2013," 472,816,138 ",UAE
+304,Greenland,2013,,UAE
+308,Grenada,2013," 799,160 ",UAE
+312,Guadeloupe,2013,,UAE
+316,Guam,2013,,UAE
+320,Guatemala,2013,,UAE
+324,Guinea,2013," 11,490,494 ",UAE
+328,Guyana,2013,,UAE
+332,Haiti,2013," 832,944 ",UAE
+336,Holy See,2013,,UAE
+340,Honduras,2013,,UAE
+344,"China, Hong Kong Special Administrative Region",2013," 5,850,261,075 ",UAE
+348,Hungary,2013," 40,901,232 ",UAE
+352,Iceland,2013," 5,499,405 ",UAE
+356,India,2013," 20,915,063,018 ",UAE
+360,Indonesia,2013," 32,029,465 ",UAE
+364,Iran (Islamic Republic of),2013," 12,260,664,813 ",UAE
+368,Iraq,2013," 807,694,859 ",UAE
+372,Ireland,2013," 509,753,812 ",UAE
+376,Israel,2013,,UAE
+380,Italy,2013," 1,851,868,797 ",UAE
+384,Cote d'Ivoire,2013," 1,565,000 ",UAE
+388,Jamaica,2013," 4,877,922 ",UAE
+392,Japan,2013," 14,578,293,201 ",UAE
+398,Kazakhstan,2013," 629,175,938 ",UAE
+400,Jordan,2013," 4,060,334,087 ",UAE
+404,Kenya,2013," 131,906,966 ",UAE
+410,Republic of Korea,2013," 2,814,653,583 ",UAE
+410,Republic of Korea,2013," 4,152,894,332 ",UAE
+414,Kuwait,2013," 10,790,258,343 ",UAE
+417,Kyrgyzstan,2013," 8,357,444 ",UAE
+418,Lao People's Democratic Republic,2013,,UAE
+422,Lebanon,2013," 3,639,662,018 ",UAE
+426,Lesotho,2013," 1,184,100 ",UAE
+428,Latvia,2013," 25,551,046 ",UAE
+430,Liberia,2013," 18,298,196 ",UAE
+434,Libya,2013," 3,180,206,933 ",UAE
+438,Liechtenstein,2013," 1,043,684,456 ",UAE
+440,Lithuania,2013," 10,211,399 ",UAE
+442,Luxembourg,2013," 1,384,597,388 ",UAE
+156,TAIWAN,2013," 432,385,737 ",UAE
+450,Madagascar,2013, -   ,UAE
+454,Malawi,2013," 6,859,664 ",UAE
+458,Malaysia,2013," 885,773,659 ",UAE
+462,Maldives,2013," 4,945,587 ",UAE
+466,Mali,2013," 275,000 ",UAE
+470,Malta,2013," 895,602,161 ",UAE
+474,Martinique,2013,,UAE
+478,Mauritania,2013," 6,373,769 ",UAE
+480,Mauritius,2013," 2,844,635,379 ",UAE
+484,Mexico,2013," 23,707,758 ",UAE
+492,Monaco,2013,,UAE
+496,Mongolia,2013,,UAE
+498,Republic of Moldova,2013," 3,668,068 ",UAE
+499,Montenegro,2013,,UAE
+500,Montserrat,2013,,UAE
+504,Morocco,2013," 122,869,121 ",UAE
+508,Mozambique,2013," 4,261,837 ",UAE
+512,Oman,2013," 3,124,116,430 ",UAE
+516,Namibia,2013," 2,126,242 ",UAE
+520,Nauru,2013,,UAE
+524,Nepal,2013," 35,721,034 ",UAE
+528,Netherlands,2013," 8,080,369,584 ",UAE
+531,Curaçao,2013,,UAE
+533,Aruba,2013," 850,000 ",UAE
+534,Sint Maarten (Dutch part),2013,,UAE
+540,New Caledonia,2013,,UAE
+548,Vanuatu,2013,,UAE
+554,New Zealand,2013," 356,881,270 ",UAE
+558,Nicaragua,2013,,UAE
+562,Niger,2013," 11,728,056 ",UAE
+566,Nigeria,2013," 244,762,823 ",UAE
+570,Niue,2013,,UAE
+574,Norfolk Island,2013,,UAE
+578,Norway,2013," 2,562,876,062 ",UAE
+580,Northern Mariana Islands,2013,,UAE
+583,Micronesia (Federated States of),2013,,UAE
+584,Marshall Islands,2013," 1,702,836 ",UAE
+585,Palau,2013," 1,090,000 ",UAE
+586,Pakistan,2013," 5,099,124,778 ",UAE
+591,Panama,2013," 1,722,361,280 ",UAE
+598,Papua New Guinea,2013," 703,140 ",UAE
+600,Paraguay,2013," 1,167,012 ",UAE
+604,Peru,2013," 4,511,845 ",UAE
+608,Philippines,2013," 25,235,955 ",UAE
+612,Pitcairn,2013,,UAE
+616,Poland,2013," 115,596,356 ",UAE
+620,Portugal,2013," 1,163,123,632 ",UAE
+624,Guinea-Bissau,2013,,UAE
+626,Timor-Leste,2013,,UAE
+630,Puerto Rico,2013," 144,500 ",UAE
+634,Qatar,2013," 2,165,491,137 ",UAE
+638,Réunion,2013,,UAE
+642,Romania,2013," 28,889,761 ",UAE
+643,Russian Federation,2013," 2,551,007,645 ",UAE
+646,Rwanda,2013," 8,382,332 ",UAE
+654,Saint Helena,2013,,UAE
+659,Saint Kitts and Nevis,2013," 75,439,027 ",UAE
+660,Anguilla,2013,,UAE
+662,Saint Lucia,2013,,UAE
+663,Saint Martin (French part),2013,,UAE
+666,Saint Pierre and Miquelon,2013,,UAE
+670,Saint Vincent and the Grenadines,2013,,UAE
+674,San Marino,2013,,UAE
+678,Sao Tome and Principe,2013,,UAE
+680,Sark,2013,,UAE
+682,Saudi Arabia,2013," 13,673,638,185 ",UAE
+686,Senegal,2013," 11,968,474 ",UAE
+688,Serbia,2013," 25,234,982 ",UAE
+690,Seychelles,2013," 9,481,963 ",UAE
+694,Sierra Leone,2013," 8,395,200 ",UAE
+702,Singapore,2013," 5,641,330,854 ",UAE
+703,Slovakia,2013," 13,204,058 ",UAE
+704,Viet Nam,2013," 862,100 ",UAE
+705,Slovenia,2013," 8,880,980 ",UAE
+706,Somalia,2013," 2,839,547 ",UAE
+710,South Africa,2013," 1,022,296,982 ",UAE
+716,Zimbabwe,2013," 16,178,609 ",UAE
+724,Spain,2013," 768,855,458 ",UAE
+728,South Sudan,2013,,UAE
+729,Sudan,2013," 341,882,430 ",UAE
+732,Western Sahara,2013,,UAE
+740,Suriname,2013," 466,944 ",UAE
+744,Svalbard and Jan Mayen Islands,2013,,UAE
+748,Swaziland,2013," 16,737,802 ",UAE
+752,Sweden,2013," 610,669,958 ",UAE
+756,Switzerland,2013," 12,247,189,789 ",UAE
+760,Syrian Arab Republic,2013," 1,006,355,096 ",UAE
+762,Tajikistan,2013," 30,809,875 ",UAE
+764,Thailand,2013," 55,842,777 ",UAE
+768,Togo,2013," 2,390,375 ",UAE
+772,Tokelau,2013,,UAE
+776,Tonga,2013,,UAE
+780,Trinidad and Tobago,2013,,UAE
+784,United Arab Emirates,2013,,UAE
+788,Tunisia,2013," 64,825,080 ",UAE
+792,Turkey,2013," 560,482,006 ",UAE
+795,Turkmenistan,2013," 35,794,992 ",UAE
+796,Turks and Caicos Islands,2013,,UAE
+798,Tuvalu,2013,,UAE
+800,Uganda,2013," 18,287,823 ",UAE
+804,Ukraine,2013," 309,159,511 ",UAE
+807,The former Yugoslav Republic of Macedonia,2013," 12,873,700 ",UAE
+818,Egypt,2013," 2,084,086,693 ",UAE
+826,United Kingdom of Great Britain and Northern Ireland,2013," 42,629,685,067 ",UAE
+830,Channel Islands,2013,,UAE
+831,Guernsey,2013,,UAE
+832,Jersey,2013,,UAE
+833,Isle of Man,2013," 281,473,778 ",UAE
+834,United Republic of Tanzania,2013," 140,918,513 ",UAE
+840,United States of America,2013," 15,722,894,897 ",UAE
+850,United States Virgin Islands,2013," 402,836,913 ",UAE
+854,Burkina Faso,2013," 438,841 ",UAE
+858,Uruguay,2013," 4,112,456 ",UAE
+860,Uzbekistan,2013," 137,446,233 ",UAE
+862,Venezuela (Bolivarian Republic of),2013," 6,397,275 ",UAE
+876,Wallis and Futuna Islands,2013,,UAE
+882,Samoa,2013,,UAE
+887,Yemen,2013," 406,690,306 ",UAE
+894,Zambia,2013," 59,167,400 ",UAE
+999,Other,2013," 40,101,876,360 ",UAE
+4,Afghanistan,2012," 226,375,734 ",UAE
+8,Albania,2012," 3,373,144 ",UAE
+12,Algeria,2012," 880,687,914 ",UAE
+16,American Samoa,2012,,UAE
+20,Andorra,2012,,UAE
+24,Angola,2012," 166,120-",UAE
+28,Antigua and Barbuda,2012,,UAE
+31,Azerbaijan,2012," 183,293,367 ",UAE
+32,Argentina,2012," 111,760,742 ",UAE
+36,Australia,2012," 2,304,330,929 ",UAE
+40,Austria,2012," 9,696,978,355 ",UAE
+44,Bahamas,2012," 302,036,669 ",UAE
+48,Bahrain,2012," 2,072,340,413 ",UAE
+50,Bangladesh,2012," 155,628,395 ",UAE
+51,Armenia,2012," 18,515,315 ",UAE
+52,Barbados,2012," 4,096,540 ",UAE
+56,Belgium,2012," 942,707,535 ",UAE
+60,Bermuda,2012," 1,788,530,902 ",UAE
+64,Bhutan,2012,,UAE
+68,Bolivia (Plurinational State of),2012," 434,021 ",UAE
+70,Bosnia and Herzegovina,2012," 9,402,607 ",UAE
+72,Botswana,2012," 6,083,384 ",UAE
+76,Brazil,2012," 190,730,159 ",UAE
+84,Belize,2012," 12,063,919 ",UAE
+90,Solomon Islands,2012,,UAE
+92,British Virgin Islands,2012," 6,057,451,414 ",UAE
+96,Brunei Darussalam,2012," 1,612,570 ",UAE
+100,Bulgaria,2012," 45,964,637 ",UAE
+104,Myanmar,2012," 2,204,730 ",UAE
+108,Burundi,2012," 725,000 ",UAE
+112,Belarus,2012," 31,553,660 ",UAE
+116,Cambodia,2012,,UAE
+120,Cameroon,2012," 3,522,726 ",UAE
+124,Canada,2012," 1,687,746,854 ",UAE
+132,Cabo Verde,2012,,UAE
+136,Cayman Islands,2012," 3,474,774,388 ",UAE
+140,Central African Republic,2012," 524,500 ",UAE
+144,Sri Lanka,2012," 50,678,443 ",UAE
+148,Chad,2012," 2,387,987 ",UAE
+152,Chile,2012," 65,449,292 ",UAE
+156,China,2012," 2,961,933,254 ",UAE
+170,Colombia,2012," 5,934,199 ",UAE
+174,Comoros,2012," 1,702,037 ",UAE
+175,Mayotte,2012,,UAE
+178,Congo,2012," 5,763,322 ",UAE
+180,Democratic Republic of the Congo,2012,,UAE
+184,Cook Islands,2012,,UAE
+188,Costa Rica,2012," 775,000 ",UAE
+191,Croatia,2012," 7,306,014 ",UAE
+192,Cuba,2012," 3,599,688 ",UAE
+196,Cyprus,2012," 2,697,913,491 ",UAE
+203,Czech Republic,2012," 25,401,920 ",UAE
+204,Benin,2012," 1,824,960 ",UAE
+208,Denmark,2012," 619,556,088 ",UAE
+212,Dominica,2012," 4,927,233 ",UAE
+214,Dominican Republic,2012," 689,114 ",UAE
+218,Ecuador,2012," 1,041,250 ",UAE
+222,El Salvador,2012," 5,835,061 ",UAE
+226,Equatorial Guinea,2012,,UAE
+231,Ethiopia,2012," 40,149,057 ",UAE
+232,Eritrea,2012," 4,699,004 ",UAE
+233,Estonia,2012," 2,700,533 ",UAE
+234,Faeroe Islands,2012,,UAE
+238,Falkland Islands (Malvinas),2012,,UAE
+242,Fiji,2012,,UAE
+246,Finland,2012," 29,830,365 ",UAE
+248,Åland Islands,2012,,UAE
+250,France,2012," 15,573,987,384 ",UAE
+254,French Guiana,2012,,UAE
+258,French Polynesia,2012,,UAE
+262,Djibouti,2012," 8,737,579 ",UAE
+266,Gabon,2012," 29,175,305 ",UAE
+268,Georgia,2012," 6,748,398 ",UAE
+270,Gambia,2012,,UAE
+275,State of Palestine,2012," 83,379,073 ",UAE
+276,Germany,2012," 4,911,830,094 ",UAE
+288,Ghana,2012," 935,000 ",UAE
+292,Gibraltar,2012, -   ,UAE
+296,Kiribati,2012,,UAE
+300,Greece,2012," 269,414,986 ",UAE
+304,Greenland,2012,,UAE
+308,Grenada,2012," 317,500 ",UAE
+312,Guadeloupe,2012,,UAE
+316,Guam,2012,,UAE
+320,Guatemala,2012,,UAE
+324,Guinea,2012," 1,525,000 ",UAE
+328,Guyana,2012,,UAE
+332,Haiti,2012," 832,944 ",UAE
+336,Holy See,2012,,UAE
+340,Honduras,2012,,UAE
+344,"China, Hong Kong Special Administrative Region",2012," 5,814,919,161 ",UAE
+348,Hungary,2012," 37,346,661 ",UAE
+352,Iceland,2012," 3,441,888 ",UAE
+356,India,2012," 17,389,354,660 ",UAE
+360,Indonesia,2012," 19,260,476 ",UAE
+364,Iran (Islamic Republic of),2012," 9,928,502,653 ",UAE
+368,Iraq,2012," 542,465,537 ",UAE
+372,Ireland,2012," 341,359,257 ",UAE
+376,Israel,2012,,UAE
+380,Italy,2012," 1,637,520,552 ",UAE
+384,Cote d'Ivoire,2012," 145,000 ",UAE
+388,Jamaica,2012," 3,645,547 ",UAE
+392,Japan,2012," 14,868,118,097 ",UAE
+398,Kazakhstan,2012," 643,034,824 ",UAE
+400,Jordan,2012," 3,149,714,585 ",UAE
+404,Kenya,2012," 130,249,373 ",UAE
+410,Republic of Korea,2012," 1,032,391,880 ",UAE
+410,Republic of Korea,2012," 3,818,412,336 ",UAE
+414,Kuwait,2012," 11,300,636,010 ",UAE
+417,Kyrgyzstan,2012," 8,009,356 ",UAE
+418,Lao People's Democratic Republic,2012,,UAE
+422,Lebanon,2012," 3,609,161,269 ",UAE
+426,Lesotho,2012," 1,184,100 ",UAE
+428,Latvia,2012," 26,280,501 ",UAE
+430,Liberia,2012," 1,167,012 ",UAE
+434,Libya,2012," 2,601,335,713 ",UAE
+438,Liechtenstein,2012," 607,909,951 ",UAE
+440,Lithuania,2012," 5,531,998 ",UAE
+442,Luxembourg,2012," 1,192,471,160 ",UAE
+156,TAIWAN,2012," 480,815,749 ",UAE
+450,Madagascar,2012," 1,100,000 ",UAE
+454,Malawi,2012," 4,422,460 ",UAE
+458,Malaysia,2012," 793,968,087 ",UAE
+462,Maldives,2012," 4,190,509 ",UAE
+466,Mali,2012," 700,000 ",UAE
+470,Malta,2012," 843,881,360 ",UAE
+474,Martinique,2012,,UAE
+478,Mauritania,2012," 4,734,212 ",UAE
+480,Mauritius,2012," 2,847,355,388 ",UAE
+484,Mexico,2012," 8,113,589 ",UAE
+492,Monaco,2012,,UAE
+496,Mongolia,2012,,UAE
+498,Republic of Moldova,2012," 4,047,918 ",UAE
+499,Montenegro,2012,,UAE
+500,Montserrat,2012,,UAE
+504,Morocco,2012," 71,683,144 ",UAE
+508,Mozambique,2012," 3,420,693 ",UAE
+512,Oman,2012," 2,800,075,345 ",UAE
+516,Namibia,2012," 1,887,492 ",UAE
+520,Nauru,2012,,UAE
+524,Nepal,2012," 24,405,276 ",UAE
+528,Netherlands,2012," 7,653,934,485 ",UAE
+531,Curaçao,2012,,UAE
+533,Aruba,2012," 850,000 ",UAE
+534,Sint Maarten (Dutch part),2012,,UAE
+540,New Caledonia,2012,,UAE
+548,Vanuatu,2012,,UAE
+554,New Zealand,2012," 320,742,529 ",UAE
+558,Nicaragua,2012,,UAE
+562,Niger,2012," 9,780,156 ",UAE
+566,Nigeria,2012," 224,672,638 ",UAE
+570,Niue,2012,,UAE
+574,Norfolk Island,2012,,UAE
+578,Norway,2012," 1,299,449,775 ",UAE
+580,Northern Mariana Islands,2012,,UAE
+583,Micronesia (Federated States of),2012,,UAE
+584,Marshall Islands,2012, -   ,UAE
+585,Palau,2012," 2,595,944 ",UAE
+586,Pakistan,2012," 4,131,126,762 ",UAE
+591,Panama,2012," 1,220,184,009 ",UAE
+598,Papua New Guinea,2012," 703,140 ",UAE
+600,Paraguay,2012," 1,167,012 ",UAE
+604,Peru,2012," 2,484,928 ",UAE
+608,Philippines,2012," 33,070,567 ",UAE
+612,Pitcairn,2012,,UAE
+616,Poland,2012," 103,146,321 ",UAE
+620,Portugal,2012," 1,061,236,807 ",UAE
+624,Guinea-Bissau,2012,,UAE
+626,Timor-Leste,2012,,UAE
+630,Puerto Rico,2012," 487,000 ",UAE
+634,Qatar,2012," 4,326,980,487 ",UAE
+638,Réunion,2012,,UAE
+642,Romania,2012," 23,574,659 ",UAE
+643,Russian Federation,2012," 1,998,369,771 ",UAE
+646,Rwanda,2012," 5,484,032 ",UAE
+654,Saint Helena,2012,,UAE
+659,Saint Kitts and Nevis,2012," 55,011,213 ",UAE
+660,Anguilla,2012,,UAE
+662,Saint Lucia,2012,,UAE
+663,Saint Martin (French part),2012,,UAE
+666,Saint Pierre and Miquelon,2012,,UAE
+670,Saint Vincent and the Grenadines,2012,,UAE
+674,San Marino,2012,,UAE
+678,Sao Tome and Principe,2012,,UAE
+680,Sark,2012,,UAE
+682,Saudi Arabia,2012," 13,694,412,062 ",UAE
+686,Senegal,2012," 8,847,517 ",UAE
+688,Serbia,2012," 9,729,018 ",UAE
+690,Seychelles,2012," 9,192,718 ",UAE
+694,Sierra Leone,2012," 427,500 ",UAE
+702,Singapore,2012," 5,550,250,021 ",UAE
+703,Slovakia,2012," 12,407,448 ",UAE
+704,Viet Nam,2012," 989,600 ",UAE
+705,Slovenia,2012," 4,283,160 ",UAE
+706,Somalia,2012," 2,197,970 ",UAE
+710,South Africa,2012," 965,908,027 ",UAE
+716,Zimbabwe,2012," 15,234,399 ",UAE
+724,Spain,2012," 540,825,101 ",UAE
+728,South Sudan,2012,,UAE
+729,Sudan,2012," 235,790,849 ",UAE
+732,Western Sahara,2012,,UAE
+740,Suriname,2012, -   ,UAE
+744,Svalbard and Jan Mayen Islands,2012,,UAE
+748,Swaziland,2012," 12,918,971 ",UAE
+752,Sweden,2012," 446,333,479 ",UAE
+756,Switzerland,2012," 12,011,697,891 ",UAE
+760,Syrian Arab Republic,2012," 873,489,649 ",UAE
+762,Tajikistan,2012," 30,929,028 ",UAE
+764,Thailand,2012," 53,523,651 ",UAE
+768,Togo,2012," 571,320 ",UAE
+772,Tokelau,2012,,UAE
+776,Tonga,2012,,UAE
+780,Trinidad and Tobago,2012,,UAE
+784,United Arab Emirates,2012,,UAE
+788,Tunisia,2012," 64,299,169 ",UAE
+792,Turkey,2012," 933,776,441 ",UAE
+795,Turkmenistan,2012," 32,699,769 ",UAE
+796,Turks and Caicos Islands,2012,,UAE
+798,Tuvalu,2012,,UAE
+800,Uganda,2012," 14,204,683 ",UAE
+804,Ukraine,2012," 226,013,201 ",UAE
+807,The former Yugoslav Republic of Macedonia,2012," 13,280,590 ",UAE
+818,Egypt,2012," 2,895,260,503 ",UAE
+826,United Kingdom of Great Britain and Northern Ireland,2012," 36,124,498,855 ",UAE
+830,Channel Islands,2012,,UAE
+831,Guernsey,2012,,UAE
+832,Jersey,2012,,UAE
+833,Isle of Man,2012," 291,542,227 ",UAE
+834,United Republic of Tanzania,2012," 146,387,575 ",UAE
+840,United States of America,2012," 12,213,092,034 ",UAE
+850,United States Virgin Islands,2012," 378,210,303 ",UAE
+854,Burkina Faso,2012," 863,055 ",UAE
+858,Uruguay,2012, -   ,UAE
+860,Uzbekistan,2012," 87,496,091 ",UAE
+862,Venezuela (Bolivarian Republic of),2012," 3,939,897 ",UAE
+876,Wallis and Futuna Islands,2012,,UAE
+882,Samoa,2012,,UAE
+887,Yemen,2012," 322,575,195 ",UAE
+894,Zambia,2012," 59,341,120 ",UAE
+999,Other,2012," 38,033,577,563 ",UAE
+4,Afghanistan,2011," 159,829,598 ",UAE
+8,Albania,2011," 3,162,599 ",UAE
+12,Algeria,2011," 687,638,670 ",UAE
+16,American Samoa,2011,,UAE
+20,Andorra,2011,,UAE
+24,Angola,2011," 1,225,123 ",UAE
+28,Antigua and Barbuda,2011,,UAE
+31,Azerbaijan,2011," 142,327,811 ",UAE
+32,Argentina,2011," 107,808,935 ",UAE
+36,Australia,2011," 8,460,812,074 ",UAE
+40,Austria,2011," 1,264,893,814 ",UAE
+44,Bahamas,2011," 540,504,238 ",UAE
+48,Bahrain,2011," 1,786,109,463 ",UAE
+50,Bangladesh,2011," 147,203,734 ",UAE
+51,Armenia,2011," 11,354,210 ",UAE
+52,Barbados,2011," 1,290,330 ",UAE
+56,Belgium,2011," 1,071,336,826 ",UAE
+60,Bermuda,2011," 1,651,311,097 ",UAE
+64,Bhutan,2011,,UAE
+68,Bolivia (Plurinational State of),2011," 434,064 ",UAE
+70,Bosnia and Herzegovina,2011," 8,438,569 ",UAE
+72,Botswana,2011," 5,292,381 ",UAE
+76,Brazil,2011," 178,339,541 ",UAE
+84,Belize,2011," 13,649,216 ",UAE
+90,Solomon Islands,2011,,UAE
+92,British Virgin Islands,2011," 6,139,182,794 ",UAE
+96,Brunei Darussalam,2011," 1,030,104 ",UAE
+100,Bulgaria,2011," 72,576,321 ",UAE
+104,Myanmar,2011," 2,375,343 ",UAE
+108,Burundi,2011," 725,073 ",UAE
+112,Belarus,2011," 25,397,141 ",UAE
+116,Cambodia,2011,,UAE
+120,Cameroon,2011," 3,581,087 ",UAE
+124,Canada,2011," 1,244,526,960 ",UAE
+132,Cabo Verde,2011,,UAE
+136,Cayman Islands,2011," 983,652,077 ",UAE
+140,Central African Republic,2011," 149,515 ",UAE
+144,Sri Lanka,2011," 44,862,209 ",UAE
+148,Chad,2011," 1,385,140 ",UAE
+152,Chile,2011," 69,151,047 ",UAE
+156,China,2011," 1,671,912,405 ",UAE
+170,Colombia,2011," 4,725,119 ",UAE
+174,Comoros,2011," 15,829,635 ",UAE
+175,Mayotte,2011,,UAE
+178,Congo,2011," 5,763,420 ",UAE
+180,Democratic Republic of the Congo,2011,,UAE
+184,Cook Islands,2011,,UAE
+188,Costa Rica,2011," 775,078 ",UAE
+191,Croatia,2011," 6,650,936 ",UAE
+192,Cuba,2011," 1,438,660 ",UAE
+196,Cyprus,2011," 3,449,221,369 ",UAE
+203,Czech Republic,2011," 23,714,847 ",UAE
+204,Benin,2011," 1,905,075 ",UAE
+208,Denmark,2011," 324,581,223 ",UAE
+212,Dominica,2011," 4,590,351 ",UAE
+214,Dominican Republic,2011," 426,487 ",UAE
+218,Ecuador,2011," 1,041,355 ",UAE
+222,El Salvador,2011," 5,835,061 ",UAE
+226,Equatorial Guinea,2011,,UAE
+231,Ethiopia,2011," 27,234,278 ",UAE
+232,Eritrea,2011," 1,422,884 ",UAE
+233,Estonia,2011," 1,415,175 ",UAE
+234,Faeroe Islands,2011,,UAE
+238,Falkland Islands (Malvinas),2011,,UAE
+242,Fiji,2011,,UAE
+246,Finland,2011," 248,493,716-",UAE
+248,Åland Islands,2011,,UAE
+250,France,2011," 13,415,696,728 ",UAE
+254,French Guiana,2011,,UAE
+258,French Polynesia,2011,,UAE
+262,Djibouti,2011," 7,850,977 ",UAE
+266,Gabon,2011," 35,010,365 ",UAE
+268,Georgia,2011," 2,524,610 ",UAE
+270,Gambia,2011,,UAE
+275,State of Palestine,2011," 86,378,040 ",UAE
+276,Germany,2011," 4,994,250,498 ",UAE
+288,Ghana,2011," 475,048 ",UAE
+292,Gibraltar,2011, -   ,UAE
+296,Kiribati,2011,,UAE
+300,Greece,2011," 240,517,976 ",UAE
+304,Greenland,2011,,UAE
+308,Grenada,2011," 317,532 ",UAE
+312,Guadeloupe,2011,,UAE
+316,Guam,2011,,UAE
+320,Guatemala,2011,,UAE
+324,Guinea,2011," 1,584,734 ",UAE
+328,Guyana,2011,,UAE
+332,Haiti,2011," 833,028 ",UAE
+336,Holy See,2011,,UAE
+340,Honduras,2011,,UAE
+344,"China, Hong Kong Special Administrative Region",2011," 5,371,816,522 ",UAE
+348,Hungary,2011," 14,554,950 ",UAE
+352,Iceland,2011," 3,442,235 ",UAE
+356,India,2011," 14,795,458,347 ",UAE
+360,Indonesia,2011," 17,425,679 ",UAE
+364,Iran (Islamic Republic of),2011," 6,898,430,654 ",UAE
+368,Iraq,2011," 639,858,464 ",UAE
+372,Ireland,2011," 296,657,434 ",UAE
+376,Israel,2011,,UAE
+380,Italy,2011," 1,739,534,002 ",UAE
+384,Cote d'Ivoire,2011," 145,015 ",UAE
+388,Jamaica,2011," 2,045,753 ",UAE
+392,Japan,2011," 14,056,073,662 ",UAE
+398,Kazakhstan,2011," 452,574,746 ",UAE
+400,Jordan,2011," 2,256,715,822 ",UAE
+404,Kenya,2011," 109,133,473 ",UAE
+410,Republic of Korea,2011," 439,351,682 ",UAE
+410,Republic of Korea,2011," 2,880,643,171 ",UAE
+414,Kuwait,2011," 10,670,653,239 ",UAE
+417,Kyrgyzstan,2011," 6,453,812 ",UAE
+418,Lao People's Democratic Republic,2011,,UAE
+422,Lebanon,2011," 3,506,485,797 ",UAE
+426,Lesotho,2011," 1,184,219 ",UAE
+428,Latvia,2011," 16,335,869 ",UAE
+430,Liberia,2011," 1,167,012 ",UAE
+434,Libya,2011," 2,016,929,640 ",UAE
+438,Liechtenstein,2011," 671,502,851 ",UAE
+440,Lithuania,2011," 2,803,984 ",UAE
+442,Luxembourg,2011," 813,068,901 ",UAE
+156,TAIWAN,2011," 477,578,901 ",UAE
+450,Madagascar,2011," 1,074,552 ",UAE
+454,Malawi,2011," 2,838,665 ",UAE
+458,Malaysia,2011," 490,711,814 ",UAE
+462,Maldives,2011," 3,883,366 ",UAE
+466,Mali,2011," 700,071 ",UAE
+470,Malta,2011," 806,307,071 ",UAE
+474,Martinique,2011,,UAE
+478,Mauritania,2011," 3,395,879 ",UAE
+480,Mauritius,2011," 4,343,101,508 ",UAE
+484,Mexico,2011," 4,647,213 ",UAE
+492,Monaco,2011,,UAE
+496,Mongolia,2011,,UAE
+498,Republic of Moldova,2011," 3,298,250 ",UAE
+499,Montenegro,2011,,UAE
+500,Montserrat,2011,,UAE
+504,Morocco,2011," 56,478,377 ",UAE
+508,Mozambique,2011," 2,621,207 ",UAE
+512,Oman,2011," 2,708,160,322 ",UAE
+516,Namibia,2011," 1,225,123 ",UAE
+520,Nauru,2011,,UAE
+524,Nepal,2011," 20,118,795 ",UAE
+528,Netherlands,2011," 6,649,870,557 ",UAE
+531,Curaçao,2011,,UAE
+533,Aruba,2011," 638,614 ",UAE
+534,Sint Maarten (Dutch part),2011,,UAE
+540,New Caledonia,2011,,UAE
+548,Vanuatu,2011,,UAE
+554,New Zealand,2011," 299,952,918 ",UAE
+558,Nicaragua,2011,,UAE
+562,Niger,2011," 3,188,077 ",UAE
+566,Nigeria,2011," 156,872,331 ",UAE
+570,Niue,2011,,UAE
+574,Norfolk Island,2011,,UAE
+578,Norway,2011," 1,247,123,338 ",UAE
+580,Northern Mariana Islands,2011,,UAE
+583,Micronesia (Federated States of),2011,,UAE
+584,Marshall Islands,2011, -   ,UAE
+585,Palau,2011," 1,239,625 ",UAE
+586,Pakistan,2011," 3,129,287,895 ",UAE
+591,Panama,2011," 1,081,933,743 ",UAE
+598,Papua New Guinea,2011," 703,211 ",UAE
+600,Paraguay,2011," 1,167,012 ",UAE
+604,Peru,2011," 2,485,178 ",UAE
+608,Philippines,2011," 22,556,542 ",UAE
+612,Pitcairn,2011,,UAE
+616,Poland,2011," 49,148,491 ",UAE
+620,Portugal,2011," 958,997,745 ",UAE
+624,Guinea-Bissau,2011,,UAE
+626,Timor-Leste,2011,,UAE
+630,Puerto Rico,2011," 342,535 ",UAE
+634,Qatar,2011," 4,260,078,637 ",UAE
+638,Réunion,2011,,UAE
+642,Romania,2011," 12,729,011 ",UAE
+643,Russian Federation,2011," 1,357,199,895 ",UAE
+646,Rwanda,2011," 4,661,801 ",UAE
+654,Saint Helena,2011,,UAE
+659,Saint Kitts and Nevis,2011," 47,731,304 ",UAE
+660,Anguilla,2011,,UAE
+662,Saint Lucia,2011,,UAE
+663,Saint Martin (French part),2011,,UAE
+666,Saint Pierre and Miquelon,2011,,UAE
+670,Saint Vincent and the Grenadines,2011,,UAE
+674,San Marino,2011,,UAE
+678,Sao Tome and Principe,2011,,UAE
+680,Sark,2011,,UAE
+682,Saudi Arabia,2011," 12,018,814,523 ",UAE
+686,Senegal,2011," 8,238,086 ",UAE
+688,Serbia,2011," 7,575,281 ",UAE
+690,Seychelles,2011," 23,728,911 ",UAE
+694,Sierra Leone,2011, -   ,UAE
+702,Singapore,2011," 3,982,805,126 ",UAE
+703,Slovakia,2011," 10,162,791 ",UAE
+704,Viet Nam,2011," 989,700 ",UAE
+705,Slovenia,2011," 3,777,269 ",UAE
+706,Somalia,2011," 1,823,539 ",UAE
+710,South Africa,2011," 627,937,152 ",UAE
+716,Zimbabwe,2011," 10,562,154 ",UAE
+724,Spain,2011," 433,509,416 ",UAE
+728,South Sudan,2011,,UAE
+729,Sudan,2011," 186,583,392 ",UAE
+732,Western Sahara,2011,,UAE
+740,Suriname,2011, -   ,UAE
+744,Svalbard and Jan Mayen Islands,2011,,UAE
+748,Swaziland,2011," 10,523,052 ",UAE
+752,Sweden,2011," 436,832,750 ",UAE
+756,Switzerland,2011," 9,117,026,911 ",UAE
+760,Syrian Arab Republic,2011," 812,678,016 ",UAE
+762,Tajikistan,2011," 17,662,143 ",UAE
+764,Thailand,2011," 35,416,818 ",UAE
+768,Togo,2011, -   ,UAE
+772,Tokelau,2011,,UAE
+776,Tonga,2011,,UAE
+780,Trinidad and Tobago,2011,,UAE
+784,United Arab Emirates,2011,,UAE
+788,Tunisia,2011," 44,737,381 ",UAE
+792,Turkey,2011," 528,978,332 ",UAE
+795,Turkmenistan,2011," 25,173,958 ",UAE
+796,Turks and Caicos Islands,2011,,UAE
+798,Tuvalu,2011,,UAE
+800,Uganda,2011," 11,987,197 ",UAE
+804,Ukraine,2011," 82,293,315 ",UAE
+807,The former Yugoslav Republic of Macedonia,2011," 12,531,853 ",UAE
+818,Egypt,2011," 3,010,259,886 ",UAE
+826,United Kingdom of Great Britain and Northern Ireland,2011," 40,944,843,938 ",UAE
+830,Channel Islands,2011,,UAE
+831,Guernsey,2011,,UAE
+832,Jersey,2011,,UAE
+833,Isle of Man,2011," 515,206,581 ",UAE
+834,United Republic of Tanzania,2011," 147,510,695 ",UAE
+840,United States of America,2011," 9,912,934,576 ",UAE
+850,United States Virgin Islands,2011," 184,076,791 ",UAE
+854,Burkina Faso,2011," 863,141 ",UAE
+858,Uruguay,2011, -   ,UAE
+860,Uzbekistan,2011," 64,449,835 ",UAE
+862,Venezuela (Bolivarian Republic of),2011," 2,179,164 ",UAE
+876,Wallis and Futuna Islands,2011,,UAE
+882,Samoa,2011,,UAE
+887,Yemen,2011," 233,164,748 ",UAE
+894,Zambia,2011," 42,530,264 ",UAE
+999,Other,2011," 32,324,690,768 ",UAE
+4,Afghanistan,2010," 5,553,821 ",UAE
+8,Albania,2010, -   ,UAE
+12,Algeria,2010," 809,000,000 ",UAE
+16,American Samoa,2010,,UAE
+20,Andorra,2010,,UAE
+24,Angola,2010, -   ,UAE
+28,Antigua and Barbuda,2010,,UAE
+31,Azerbaijan,2010, -   ,UAE
+32,Argentina,2010, -   ,UAE
+36,Australia,2010," 4,846,816,685 ",UAE
+40,Austria,2010," 930,994,092 ",UAE
+44,Bahamas,2010," 28,540,577 ",UAE
+48,Bahrain,2010," 1,109,182,153 ",UAE
+50,Bangladesh,2010," 70,000,000 ",UAE
+51,Armenia,2010, -   ,UAE
+52,Barbados,2010, -   ,UAE
+56,Belgium,2010," 397,506,372 ",UAE
+60,Bermuda,2010," 694,610,051 ",UAE
+64,Bhutan,2010,,UAE
+68,Bolivia (Plurinational State of),2010, -   ,UAE
+70,Bosnia and Herzegovina,2010, -   ,UAE
+72,Botswana,2010, -   ,UAE
+76,Brazil,2010," 24,485,296 ",UAE
+84,Belize,2010, -   ,UAE
+90,Solomon Islands,2010,,UAE
+92,British Virgin Islands,2010," 439,829,964 ",UAE
+96,Brunei Darussalam,2010, -   ,UAE
+100,Bulgaria,2010," 26,000,000 ",UAE
+104,Myanmar,2010, -   ,UAE
+108,Burundi,2010, -   ,UAE
+112,Belarus,2010, -   ,UAE
+116,Cambodia,2010,,UAE
+120,Cameroon,2010, -   ,UAE
+124,Canada,2010," 205,352,719 ",UAE
+132,Cabo Verde,2010,,UAE
+136,Cayman Islands,2010," 398,235,468 ",UAE
+140,Central African Republic,2010, -   ,UAE
+144,Sri Lanka,2010," 12,425,738 ",UAE
+148,Chad,2010, -   ,UAE
+152,Chile,2010," 98,163,923 ",UAE
+156,China,2010," 1,359,889,574 ",UAE
+170,Colombia,2010, -   ,UAE
+174,Comoros,2010," 14,127,429 ",UAE
+175,Mayotte,2010,,UAE
+178,Congo,2010, -   ,UAE
+180,Democratic Republic of the Congo,2010,,UAE
+184,Cook Islands,2010,,UAE
+188,Costa Rica,2010, -   ,UAE
+191,Croatia,2010, -   ,UAE
+192,Cuba,2010, -   ,UAE
+196,Cyprus,2010," 2,075,466,175 ",UAE
+203,Czech Republic,2010," 1,254,088,038 ",UAE
+204,Benin,2010, -   ,UAE
+208,Denmark,2010," 80,359,458 ",UAE
+212,Dominica,2010, -   ,UAE
+214,Dominican Republic,2010, -   ,UAE
+218,Ecuador,2010, -   ,UAE
+222,El Salvador,2010," 5,835,061 ",UAE
+226,Equatorial Guinea,2010,,UAE
+231,Ethiopia,2010, -   ,UAE
+232,Eritrea,2010, -   ,UAE
+233,Estonia,2010, -   ,UAE
+234,Faeroe Islands,2010,,UAE
+238,Falkland Islands (Malvinas),2010,,UAE
+242,Fiji,2010,,UAE
+246,Finland,2010," 709,520,605 ",UAE
+248,Åland Islands,2010,,UAE
+250,France,2010," 4,806,880,500 ",UAE
+254,French Guiana,2010,,UAE
+258,French Polynesia,2010,,UAE
+262,Djibouti,2010, -   ,UAE
+266,Gabon,2010," 36,177,378 ",UAE
+268,Georgia,2010, -   ,UAE
+270,Gambia,2010,,UAE
+275,State of Palestine,2010," 27,000,000 ",UAE
+276,Germany,2010," 1,991,225,369 ",UAE
+288,Ghana,2010, -   ,UAE
+292,Gibraltar,2010, -   ,UAE
+296,Kiribati,2010,,UAE
+300,Greece,2010," 48,581,364 ",UAE
+304,Greenland,2010,,UAE
+308,Grenada,2010, -   ,UAE
+312,Guadeloupe,2010,,UAE
+316,Guam,2010,,UAE
+320,Guatemala,2010,,UAE
+324,Guinea,2010, -   ,UAE
+328,Guyana,2010,,UAE
+332,Haiti,2010, -   ,UAE
+336,Holy See,2010,,UAE
+340,Honduras,2010,,UAE
+344,"China, Hong Kong Special Administrative Region",2010," 5,619,977,505 ",UAE
+348,Hungary,2010," 9,534,660 ",UAE
+352,Iceland,2010, -   ,UAE
+356,India,2010," 2,458,791,390 ",UAE
+360,Indonesia,2010, -   ,UAE
+364,Iran (Islamic Republic of),2010," 121,905,989 ",UAE
+368,Iraq,2010," 168,000,000 ",UAE
+372,Ireland,2010," 59,602,477 ",UAE
+376,Israel,2010,,UAE
+380,Italy,2010," 430,688,732 ",UAE
+384,Cote d'Ivoire,2010, -   ,UAE
+388,Jamaica,2010, -   ,UAE
+392,Japan,2010," 13,799,954,148 ",UAE
+398,Kazakhstan,2010," 1,167,012 ",UAE
+400,Jordan,2010," 1,556,059,141 ",UAE
+404,Kenya,2010," 1,359,012 ",UAE
+410,Republic of Korea,2010," 265,501,037 ",UAE
+410,Republic of Korea,2010," 894,649,114 ",UAE
+414,Kuwait,2010," 11,303,500,887 ",UAE
+417,Kyrgyzstan,2010, -   ,UAE
+418,Lao People's Democratic Republic,2010,,UAE
+422,Lebanon,2010," 973,904,683 ",UAE
+426,Lesotho,2010, -   ,UAE
+428,Latvia,2010, -   ,UAE
+430,Liberia,2010," 1,167,012 ",UAE
+434,Libya,2010," 2,124,000,000 ",UAE
+438,Liechtenstein,2010," 52,050,649 ",UAE
+440,Lithuania,2010, -   ,UAE
+442,Luxembourg,2010," 158,891,927 ",UAE
+156,TAIWAN,2010," 112,850,040 ",UAE
+450,Madagascar,2010, -   ,UAE
+454,Malawi,2010, -   ,UAE
+458,Malaysia,2010," 13,988,410 ",UAE
+462,Maldives,2010, -   ,UAE
+466,Mali,2010, -   ,UAE
+470,Malta,2010," 1,890,786 ",UAE
+474,Martinique,2010,,UAE
+478,Mauritania,2010, -   ,UAE
+480,Mauritius,2010," 1,136,953,953 ",UAE
+484,Mexico,2010," 1,167,012 ",UAE
+492,Monaco,2010,,UAE
+496,Mongolia,2010,,UAE
+498,Republic of Moldova,2010, -   ,UAE
+499,Montenegro,2010,,UAE
+500,Montserrat,2010,,UAE
+504,Morocco,2010, -   ,UAE
+508,Mozambique,2010, -   ,UAE
+512,Oman,2010," 400,609,341 ",UAE
+516,Namibia,2010, -   ,UAE
+520,Nauru,2010,,UAE
+524,Nepal,2010, -   ,UAE
+528,Netherlands,2010," 2,262,350,055 ",UAE
+531,Curaçao,2010,,UAE
+533,Aruba,2010, -   ,UAE
+534,Sint Maarten (Dutch part),2010,,UAE
+540,New Caledonia,2010,,UAE
+548,Vanuatu,2010,,UAE
+554,New Zealand,2010," 46,386,947 ",UAE
+558,Nicaragua,2010,,UAE
+562,Niger,2010," 1,167,012 ",UAE
+566,Nigeria,2010," 386,324 ",UAE
+570,Niue,2010,,UAE
+574,Norfolk Island,2010,,UAE
+578,Norway,2010," 53,983,747 ",UAE
+580,Northern Mariana Islands,2010,,UAE
+583,Micronesia (Federated States of),2010,,UAE
+584,Marshall Islands,2010, -   ,UAE
+585,Palau,2010, -   ,UAE
+586,Pakistan,2010," 542,299,980 ",UAE
+591,Panama,2010," 502,101,031 ",UAE
+598,Papua New Guinea,2010, -   ,UAE
+600,Paraguay,2010," 1,167,012 ",UAE
+604,Peru,2010, -   ,UAE
+608,Philippines,2010, -   ,UAE
+612,Pitcairn,2010,,UAE
+616,Poland,2010," 11,692,701 ",UAE
+620,Portugal,2010," 31,218,473 ",UAE
+624,Guinea-Bissau,2010,,UAE
+626,Timor-Leste,2010,,UAE
+630,Puerto Rico,2010, -   ,UAE
+634,Qatar,2010," 4,701,543,687 ",UAE
+638,Réunion,2010,,UAE
+642,Romania,2010, -   ,UAE
+643,Russian Federation,2010," 117,645,497 ",UAE
+646,Rwanda,2010, -   ,UAE
+654,Saint Helena,2010,,UAE
+659,Saint Kitts and Nevis,2010, -   ,UAE
+660,Anguilla,2010,,UAE
+662,Saint Lucia,2010,,UAE
+663,Saint Martin (French part),2010,,UAE
+666,Saint Pierre and Miquelon,2010,,UAE
+670,Saint Vincent and the Grenadines,2010,,UAE
+674,San Marino,2010,,UAE
+678,Sao Tome and Principe,2010,,UAE
+680,Sark,2010,,UAE
+682,Saudi Arabia,2010," 5,720,752,879 ",UAE
+686,Senegal,2010," 9,336,097 ",UAE
+688,Serbia,2010, -   ,UAE
+690,Seychelles,2010," 3,524,810 ",UAE
+694,Sierra Leone,2010, -   ,UAE
+702,Singapore,2010," 479,087,905 ",UAE
+703,Slovakia,2010, -   ,UAE
+704,Viet Nam,2010, -   ,UAE
+705,Slovenia,2010, -   ,UAE
+706,Somalia,2010, -   ,UAE
+710,South Africa,2010," 113,937,263 ",UAE
+716,Zimbabwe,2010, -   ,UAE
+724,Spain,2010," 100,277,233 ",UAE
+728,South Sudan,2010,,UAE
+729,Sudan,2010," 41,416,855 ",UAE
+732,Western Sahara,2010,,UAE
+740,Suriname,2010, -   ,UAE
+744,Svalbard and Jan Mayen Islands,2010,,UAE
+748,Swaziland,2010, -   ,UAE
+752,Sweden,2010," 92,632,915 ",UAE
+756,Switzerland,2010," 3,729,012,331 ",UAE
+760,Syrian Arab Republic,2010," 348,404,713 ",UAE
+762,Tajikistan,2010, -   ,UAE
+764,Thailand,2010," 1,167,012 ",UAE
+768,Togo,2010, -   ,UAE
+772,Tokelau,2010,,UAE
+776,Tonga,2010,,UAE
+780,Trinidad and Tobago,2010,,UAE
+784,United Arab Emirates,2010,,UAE
+788,Tunisia,2010, -   ,UAE
+792,Turkey,2010," 26,162,121 ",UAE
+795,Turkmenistan,2010, -   ,UAE
+796,Turks and Caicos Islands,2010,,UAE
+798,Tuvalu,2010,,UAE
+800,Uganda,2010, -   ,UAE
+804,Ukraine,2010, -   ,UAE
+807,The former Yugoslav Republic of Macedonia,2010, -   ,UAE
+818,Egypt,2010," 1,975,402,572 ",UAE
+826,United Kingdom of Great Britain and Northern Ireland,2010," 35,076,285,045 ",UAE
+830,Channel Islands,2010,,UAE
+831,Guernsey,2010,,UAE
+832,Jersey,2010,,UAE
+833,Isle of Man,2010," 1,389,588 ",UAE
+834,United Republic of Tanzania,2010, -   ,UAE
+840,United States of America,2010," 5,120,004,958 ",UAE
+850,United States Virgin Islands,2010," 312,045,759 ",UAE
+854,Burkina Faso,2010, -   ,UAE
+858,Uruguay,2010, -   ,UAE
+860,Uzbekistan,2010, -   ,UAE
+862,Venezuela (Bolivarian Republic of),2010, -   ,UAE
+876,Wallis and Futuna Islands,2010,,UAE
+882,Samoa,2010,,UAE
+887,Yemen,2010," 3,000,000 ",UAE
+894,Zambia,2010," 1,167,012 ",UAE
+999,Other,2010," 108,797,690,004 ",UAE
+4,Afghanistan,2009, -   ,UAE
+8,Albania,2009, -   ,UAE
+12,Algeria,2009," 503,000,000 ",UAE
+16,American Samoa,2009,,UAE
+20,Andorra,2009,,UAE
+24,Angola,2009, -   ,UAE
+28,Antigua and Barbuda,2009,,UAE
+31,Azerbaijan,2009, -   ,UAE
+32,Argentina,2009, -   ,UAE
+36,Australia,2009," 3,147,000,000 ",UAE
+40,Austria,2009," 67,115,660 ",UAE
+44,Bahamas,2009, -   ,UAE
+48,Bahrain,2009," 905,189,321 ",UAE
+50,Bangladesh,2009," 374,000,000 ",UAE
+51,Armenia,2009, -   ,UAE
+52,Barbados,2009, -   ,UAE
+56,Belgium,2009," 149,000,000 ",UAE
+60,Bermuda,2009," 43,000,000 ",UAE
+64,Bhutan,2009,,UAE
+68,Bolivia (Plurinational State of),2009, -   ,UAE
+70,Bosnia and Herzegovina,2009, -   ,UAE
+72,Botswana,2009, -   ,UAE
+76,Brazil,2009," 11,953,673 ",UAE
+84,Belize,2009, -   ,UAE
+90,Solomon Islands,2009,,UAE
+92,British Virgin Islands,2009," 241,413,996 ",UAE
+96,Brunei Darussalam,2009, -   ,UAE
+100,Bulgaria,2009, -   ,UAE
+104,Myanmar,2009, -   ,UAE
+108,Burundi,2009, -   ,UAE
+112,Belarus,2009, -   ,UAE
+116,Cambodia,2009,,UAE
+120,Cameroon,2009, -   ,UAE
+124,Canada,2009," 164,005,677 ",UAE
+132,Cabo Verde,2009,,UAE
+136,Cayman Islands,2009," 473,475,754 ",UAE
+140,Central African Republic,2009, -   ,UAE
+144,Sri Lanka,2009," 11,525,740 ",UAE
+148,Chad,2009, -   ,UAE
+152,Chile,2009," 103,649,060 ",UAE
+156,China,2009," 2,209,643,101 ",UAE
+170,Colombia,2009, -   ,UAE
+174,Comoros,2009," 224,000,000 ",UAE
+175,Mayotte,2009,,UAE
+178,Congo,2009, -   ,UAE
+180,Democratic Republic of the Congo,2009,,UAE
+184,Cook Islands,2009,,UAE
+188,Costa Rica,2009, -   ,UAE
+191,Croatia,2009, -   ,UAE
+192,Cuba,2009, -   ,UAE
+196,Cyprus,2009," 489,607,640 ",UAE
+203,Czech Republic,2009, -   ,UAE
+204,Benin,2009, -   ,UAE
+208,Denmark,2009," 49,046,350 ",UAE
+212,Dominica,2009, -   ,UAE
+214,Dominican Republic,2009, -   ,UAE
+218,Ecuador,2009, -   ,UAE
+222,El Salvador,2009, -   ,UAE
+226,Equatorial Guinea,2009,,UAE
+231,Ethiopia,2009, -   ,UAE
+232,Eritrea,2009, -   ,UAE
+233,Estonia,2009, -   ,UAE
+234,Faeroe Islands,2009,,UAE
+238,Falkland Islands (Malvinas),2009,,UAE
+242,Fiji,2009,,UAE
+246,Finland,2009," 478,391,149 ",UAE
+248,Åland Islands,2009,,UAE
+250,France,2009," 4,370,522,785 ",UAE
+254,French Guiana,2009,,UAE
+258,French Polynesia,2009,,UAE
+262,Djibouti,2009, -   ,UAE
+266,Gabon,2009, -   ,UAE
+268,Georgia,2009, -   ,UAE
+270,Gambia,2009,,UAE
+275,State of Palestine,2009," 19,000,000 ",UAE
+276,Germany,2009," 1,262,096,495 ",UAE
+288,Ghana,2009, -   ,UAE
+292,Gibraltar,2009," 24,000,000 ",UAE
+296,Kiribati,2009,,UAE
+300,Greece,2009," 9,475,187 ",UAE
+304,Greenland,2009,,UAE
+308,Grenada,2009, -   ,UAE
+312,Guadeloupe,2009,,UAE
+316,Guam,2009,,UAE
+320,Guatemala,2009,,UAE
+324,Guinea,2009, -   ,UAE
+328,Guyana,2009,,UAE
+332,Haiti,2009, -   ,UAE
+336,Holy See,2009,,UAE
+340,Honduras,2009,,UAE
+344,"China, Hong Kong Special Administrative Region",2009," 306,768,535 ",UAE
+348,Hungary,2009, -   ,UAE
+352,Iceland,2009, -   ,UAE
+356,India,2009," 2,346,349,939 ",UAE
+360,Indonesia,2009, -   ,UAE
+364,Iran (Islamic Republic of),2009," 104,260,472 ",UAE
+368,Iraq,2009," 247,657,590 ",UAE
+372,Ireland,2009," 1,581,404 ",UAE
+376,Israel,2009,,UAE
+380,Italy,2009," 335,795,320 ",UAE
+384,Cote d'Ivoire,2009, -   ,UAE
+388,Jamaica,2009, -   ,UAE
+392,Japan,2009," 13,609,992,340 ",UAE
+398,Kazakhstan,2009, -   ,UAE
+400,Jordan,2009," 299,677,431 ",UAE
+404,Kenya,2009, -   ,UAE
+410,Republic of Korea,2009," 488,000,000 ",UAE
+410,Republic of Korea,2009," 727,287,524 ",UAE
+414,Kuwait,2009," 14,533,044,533 ",UAE
+417,Kyrgyzstan,2009, -   ,UAE
+418,Lao People's Democratic Republic,2009,,UAE
+422,Lebanon,2009," 800,615,513 ",UAE
+426,Lesotho,2009, -   ,UAE
+428,Latvia,2009, -   ,UAE
+430,Liberia,2009, -   ,UAE
+434,Libya,2009," 1,319,000,000 ",UAE
+438,Liechtenstein,2009," 39,000,000 ",UAE
+440,Lithuania,2009, -   ,UAE
+442,Luxembourg,2009," 438,911,532 ",UAE
+156,TAIWAN,2009," 146,845,215 ",UAE
+450,Madagascar,2009, -   ,UAE
+454,Malawi,2009, -   ,UAE
+458,Malaysia,2009," 97,928,878 ",UAE
+462,Maldives,2009, -   ,UAE
+466,Mali,2009, -   ,UAE
+470,Malta,2009, -   ,UAE
+474,Martinique,2009,,UAE
+478,Mauritania,2009, -   ,UAE
+480,Mauritius,2009, -   ,UAE
+484,Mexico,2009, -   ,UAE
+492,Monaco,2009,,UAE
+496,Mongolia,2009,,UAE
+498,Republic of Moldova,2009, -   ,UAE
+499,Montenegro,2009,,UAE
+500,Montserrat,2009,,UAE
+504,Morocco,2009, -   ,UAE
+508,Mozambique,2009, -   ,UAE
+512,Oman,2009," 911,774,929 ",UAE
+516,Namibia,2009, -   ,UAE
+520,Nauru,2009,,UAE
+524,Nepal,2009, -   ,UAE
+528,Netherlands,2009," 1,867,303,345 ",UAE
+531,Curaçao,2009,,UAE
+533,Aruba,2009, -   ,UAE
+534,Sint Maarten (Dutch part),2009,,UAE
+540,New Caledonia,2009,,UAE
+548,Vanuatu,2009,,UAE
+554,New Zealand,2009, -   ,UAE
+558,Nicaragua,2009,,UAE
+562,Niger,2009, -   ,UAE
+566,Nigeria,2009, -   ,UAE
+570,Niue,2009,,UAE
+574,Norfolk Island,2009,,UAE
+578,Norway,2009, -   ,UAE
+580,Northern Mariana Islands,2009,,UAE
+583,Micronesia (Federated States of),2009,,UAE
+584,Marshall Islands,2009, -   ,UAE
+585,Palau,2009, -   ,UAE
+586,Pakistan,2009," 624,196,835 ",UAE
+591,Panama,2009," 296,000,000 ",UAE
+598,Papua New Guinea,2009, -   ,UAE
+600,Paraguay,2009, -   ,UAE
+604,Peru,2009, -   ,UAE
+608,Philippines,2009, -   ,UAE
+612,Pitcairn,2009,,UAE
+616,Poland,2009, -   ,UAE
+620,Portugal,2009, -   ,UAE
+624,Guinea-Bissau,2009,,UAE
+626,Timor-Leste,2009,,UAE
+630,Puerto Rico,2009, -   ,UAE
+634,Qatar,2009," 4,507,155,380 ",UAE
+638,Réunion,2009,,UAE
+642,Romania,2009, -   ,UAE
+643,Russian Federation,2009," 7,155,542 ",UAE
+646,Rwanda,2009, -   ,UAE
+654,Saint Helena,2009,,UAE
+659,Saint Kitts and Nevis,2009, -   ,UAE
+660,Anguilla,2009,,UAE
+662,Saint Lucia,2009,,UAE
+663,Saint Martin (French part),2009,,UAE
+666,Saint Pierre and Miquelon,2009,,UAE
+670,Saint Vincent and the Grenadines,2009,,UAE
+674,San Marino,2009,,UAE
+678,Sao Tome and Principe,2009,,UAE
+680,Sark,2009,,UAE
+682,Saudi Arabia,2009," 5,758,949,267 ",UAE
+686,Senegal,2009, -   ,UAE
+688,Serbia,2009, -   ,UAE
+690,Seychelles,2009, -   ,UAE
+694,Sierra Leone,2009, -   ,UAE
+702,Singapore,2009," 494,840,610 ",UAE
+703,Slovakia,2009, -   ,UAE
+704,Viet Nam,2009, -   ,UAE
+705,Slovenia,2009, -   ,UAE
+706,Somalia,2009, -   ,UAE
+710,South Africa,2009, -   ,UAE
+716,Zimbabwe,2009, -   ,UAE
+724,Spain,2009," 114,340,245 ",UAE
+728,South Sudan,2009,,UAE
+729,Sudan,2009," 166,000,000 ",UAE
+732,Western Sahara,2009,,UAE
+740,Suriname,2009, -   ,UAE
+744,Svalbard and Jan Mayen Islands,2009,,UAE
+748,Swaziland,2009, -   ,UAE
+752,Sweden,2009," 10,738,945 ",UAE
+756,Switzerland,2009," 3,035,082,501 ",UAE
+760,Syrian Arab Republic,2009," 172,899,900 ",UAE
+762,Tajikistan,2009, -   ,UAE
+764,Thailand,2009, -   ,UAE
+768,Togo,2009, -   ,UAE
+772,Tokelau,2009,,UAE
+776,Tonga,2009,,UAE
+780,Trinidad and Tobago,2009,,UAE
+784,United Arab Emirates,2009,,UAE
+788,Tunisia,2009, -   ,UAE
+792,Turkey,2009," 5,900,077 ",UAE
+795,Turkmenistan,2009, -   ,UAE
+796,Turks and Caicos Islands,2009,,UAE
+798,Tuvalu,2009,,UAE
+800,Uganda,2009, -   ,UAE
+804,Ukraine,2009, -   ,UAE
+807,The former Yugoslav Republic of Macedonia,2009, -   ,UAE
+818,Egypt,2009," 181,222,146 ",UAE
+826,United Kingdom of Great Britain and Northern Ireland,2009," 31,766,852,375 ",UAE
+830,Channel Islands,2009,,UAE
+831,Guernsey,2009,,UAE
+832,Jersey,2009,,UAE
+833,Isle of Man,2009," 2,141,667 ",UAE
+834,United Republic of Tanzania,2009, -   ,UAE
+840,United States of America,2009," 7,302,744,623 ",UAE
+850,United States Virgin Islands,2009," 33,594,960 ",UAE
+854,Burkina Faso,2009, -   ,UAE
+858,Uruguay,2009, -   ,UAE
+860,Uzbekistan,2009, -   ,UAE
+862,Venezuela (Bolivarian Republic of),2009, -   ,UAE
+876,Wallis and Futuna Islands,2009,,UAE
+882,Samoa,2009,,UAE
+887,Yemen,2009, -   ,UAE
+894,Zambia,2009, -   ,UAE
+999,Other,2009," 93,681,525,212 ",UAE
+4,Afghanistan,2008, -   ,UAE
+8,Albania,2008, -   ,UAE
+12,Algeria,2008," 544,000,000 ",UAE
+16,American Samoa,2008,,UAE
+20,Andorra,2008,,UAE
+24,Angola,2008, -   ,UAE
+28,Antigua and Barbuda,2008,,UAE
+31,Azerbaijan,2008, -   ,UAE
+32,Argentina,2008, -   ,UAE
+36,Australia,2008," 3,711,943,780 ",UAE
+40,Austria,2008," 17,408,698 ",UAE
+44,Bahamas,2008, -   ,UAE
+48,Bahrain,2008," 1,888,840,984 ",UAE
+50,Bangladesh,2008," 58,000,000 ",UAE
+51,Armenia,2008, -   ,UAE
+52,Barbados,2008, -   ,UAE
+56,Belgium,2008," 1,520,415,393 ",UAE
+60,Bermuda,2008," 117,857,677 ",UAE
+64,Bhutan,2008,,UAE
+68,Bolivia (Plurinational State of),2008, -   ,UAE
+70,Bosnia and Herzegovina,2008, -   ,UAE
+72,Botswana,2008, -   ,UAE
+76,Brazil,2008, -   ,UAE
+84,Belize,2008, -   ,UAE
+90,Solomon Islands,2008,,UAE
+92,British Virgin Islands,2008, -   ,UAE
+96,Brunei Darussalam,2008," 3,829,700 ",UAE
+100,Bulgaria,2008, -   ,UAE
+104,Myanmar,2008, -   ,UAE
+108,Burundi,2008, -   ,UAE
+112,Belarus,2008," 6,495,758 ",UAE
+116,Cambodia,2008,,UAE
+120,Cameroon,2008, -   ,UAE
+124,Canada,2008," 149,364,713 ",UAE
+132,Cabo Verde,2008,,UAE
+136,Cayman Islands,2008," 157,291,242 ",UAE
+140,Central African Republic,2008, -   ,UAE
+144,Sri Lanka,2008," 23,532,837 ",UAE
+148,Chad,2008, -   ,UAE
+152,Chile,2008," 99,676,437 ",UAE
+156,China,2008," 75,949,931 ",UAE
+170,Colombia,2008," 73,609,000 ",UAE
+174,Comoros,2008, -   ,UAE
+175,Mayotte,2008,,UAE
+178,Congo,2008, -   ,UAE
+180,Democratic Republic of the Congo,2008,,UAE
+184,Cook Islands,2008,,UAE
+188,Costa Rica,2008, -   ,UAE
+191,Croatia,2008, -   ,UAE
+192,Cuba,2008, -   ,UAE
+196,Cyprus,2008," 482,472,747 ",UAE
+203,Czech Republic,2008, -   ,UAE
+204,Benin,2008, -   ,UAE
+208,Denmark,2008," 29,871,357 ",UAE
+212,Dominica,2008, -   ,UAE
+214,Dominican Republic,2008, -   ,UAE
+218,Ecuador,2008, -   ,UAE
+222,El Salvador,2008, -   ,UAE
+226,Equatorial Guinea,2008,,UAE
+231,Ethiopia,2008," 81,000,000 ",UAE
+232,Eritrea,2008, -   ,UAE
+233,Estonia,2008, -   ,UAE
+234,Faeroe Islands,2008,,UAE
+238,Falkland Islands (Malvinas),2008,,UAE
+242,Fiji,2008,,UAE
+246,Finland,2008," 22,201,146 ",UAE
+248,Åland Islands,2008,,UAE
+250,France,2008," 2,981,552,615 ",UAE
+254,French Guiana,2008,,UAE
+258,French Polynesia,2008,,UAE
+262,Djibouti,2008, -   ,UAE
+266,Gabon,2008, -   ,UAE
+268,Georgia,2008, -   ,UAE
+270,Gambia,2008,,UAE
+275,State of Palestine,2008, -   ,UAE
+276,Germany,2008," 847,961,672 ",UAE
+288,Ghana,2008, -   ,UAE
+292,Gibraltar,2008, -   ,UAE
+296,Kiribati,2008,,UAE
+300,Greece,2008," 235,393,798 ",UAE
+304,Greenland,2008,,UAE
+308,Grenada,2008, -   ,UAE
+312,Guadeloupe,2008,,UAE
+316,Guam,2008,,UAE
+320,Guatemala,2008,,UAE
+324,Guinea,2008, -   ,UAE
+328,Guyana,2008,,UAE
+332,Haiti,2008, -   ,UAE
+336,Holy See,2008,,UAE
+340,Honduras,2008,,UAE
+344,"China, Hong Kong Special Administrative Region",2008," 605,274,647 ",UAE
+348,Hungary,2008, -   ,UAE
+352,Iceland,2008," 361,608,769 ",UAE
+356,India,2008," 6,141,795,749 ",UAE
+360,Indonesia,2008, -   ,UAE
+364,Iran (Islamic Republic of),2008," 906,904,167 ",UAE
+368,Iraq,2008," 192,000,000 ",UAE
+372,Ireland,2008," 27,116,161 ",UAE
+376,Israel,2008,,UAE
+380,Italy,2008," 209,740,415 ",UAE
+384,Cote d'Ivoire,2008, -   ,UAE
+388,Jamaica,2008, -   ,UAE
+392,Japan,2008," 12,245,643,188 ",UAE
+398,Kazakhstan,2008, -   ,UAE
+400,Jordan,2008," 1,222,214,104 ",UAE
+404,Kenya,2008," 55,045,551 ",UAE
+410,Republic of Korea,2008, -   ,UAE
+410,Republic of Korea,2008," 1,220,821,483 ",UAE
+414,Kuwait,2008," 14,540,879,971 ",UAE
+417,Kyrgyzstan,2008, -   ,UAE
+418,Lao People's Democratic Republic,2008,,UAE
+422,Lebanon,2008," 1,393,324,732 ",UAE
+426,Lesotho,2008, -   ,UAE
+428,Latvia,2008, -   ,UAE
+430,Liberia,2008, -   ,UAE
+434,Libya,2008," 1,428,000,000 ",UAE
+438,Liechtenstein,2008," 56,000,000 ",UAE
+440,Lithuania,2008," 300,000 ",UAE
+442,Luxembourg,2008," 64,030,912 ",UAE
+156,TAIWAN,2008," 336,954,356 ",UAE
+450,Madagascar,2008, -   ,UAE
+454,Malawi,2008, -   ,UAE
+458,Malaysia,2008," 523,187,178 ",UAE
+462,Maldives,2008, -   ,UAE
+466,Mali,2008, -   ,UAE
+470,Malta,2008, -   ,UAE
+474,Martinique,2008,,UAE
+478,Mauritania,2008, -   ,UAE
+480,Mauritius,2008," 38,426,024 ",UAE
+484,Mexico,2008, -   ,UAE
+492,Monaco,2008,,UAE
+496,Mongolia,2008,,UAE
+498,Republic of Moldova,2008, -   ,UAE
+499,Montenegro,2008,,UAE
+500,Montserrat,2008,,UAE
+504,Morocco,2008, -   ,UAE
+508,Mozambique,2008, -   ,UAE
+512,Oman,2008," 17,221,731 ",UAE
+516,Namibia,2008, -   ,UAE
+520,Nauru,2008,,UAE
+524,Nepal,2008, -   ,UAE
+528,Netherlands,2008," 2,136,679,987 ",UAE
+531,Curaçao,2008,,UAE
+533,Aruba,2008, -   ,UAE
+534,Sint Maarten (Dutch part),2008,,UAE
+540,New Caledonia,2008,,UAE
+548,Vanuatu,2008,,UAE
+554,New Zealand,2008, -   ,UAE
+558,Nicaragua,2008,,UAE
+562,Niger,2008, -   ,UAE
+566,Nigeria,2008, -   ,UAE
+570,Niue,2008,,UAE
+574,Norfolk Island,2008,,UAE
+578,Norway,2008," 3,825,400 ",UAE
+580,Northern Mariana Islands,2008,,UAE
+583,Micronesia (Federated States of),2008,,UAE
+584,Marshall Islands,2008, -   ,UAE
+585,Palau,2008, -   ,UAE
+586,Pakistan,2008," 600,828,786 ",UAE
+591,Panama,2008," 195,494,016 ",UAE
+598,Papua New Guinea,2008, -   ,UAE
+600,Paraguay,2008, -   ,UAE
+604,Peru,2008, -   ,UAE
+608,Philippines,2008, -   ,UAE
+612,Pitcairn,2008,,UAE
+616,Poland,2008, -   ,UAE
+620,Portugal,2008," 43,464,900 ",UAE
+624,Guinea-Bissau,2008,,UAE
+626,Timor-Leste,2008,,UAE
+630,Puerto Rico,2008, -   ,UAE
+634,Qatar,2008," 1,612,154,110 ",UAE
+638,Réunion,2008,,UAE
+642,Romania,2008, -   ,UAE
+643,Russian Federation,2008," 54,009,707 ",UAE
+646,Rwanda,2008, -   ,UAE
+654,Saint Helena,2008,,UAE
+659,Saint Kitts and Nevis,2008, -   ,UAE
+660,Anguilla,2008,,UAE
+662,Saint Lucia,2008,,UAE
+663,Saint Martin (French part),2008,,UAE
+666,Saint Pierre and Miquelon,2008,,UAE
+670,Saint Vincent and the Grenadines,2008,,UAE
+674,San Marino,2008,,UAE
+678,Sao Tome and Principe,2008,,UAE
+680,Sark,2008,,UAE
+682,Saudi Arabia,2008," 7,736,932,841 ",UAE
+686,Senegal,2008, -   ,UAE
+688,Serbia,2008, -   ,UAE
+690,Seychelles,2008," 13,743,430 ",UAE
+694,Sierra Leone,2008, -   ,UAE
+702,Singapore,2008," 712,266,713 ",UAE
+703,Slovakia,2008, -   ,UAE
+704,Viet Nam,2008, -   ,UAE
+705,Slovenia,2008, -   ,UAE
+706,Somalia,2008, -   ,UAE
+710,South Africa,2008," 109,828,009 ",UAE
+716,Zimbabwe,2008, -   ,UAE
+724,Spain,2008," 1,000,000 ",UAE
+728,South Sudan,2008,,UAE
+729,Sudan,2008," 45,760,720 ",UAE
+732,Western Sahara,2008,,UAE
+740,Suriname,2008, -   ,UAE
+744,Svalbard and Jan Mayen Islands,2008,,UAE
+748,Swaziland,2008, -   ,UAE
+752,Sweden,2008," 3,747,038 ",UAE
+756,Switzerland,2008," 1,580,362,600 ",UAE
+760,Syrian Arab Republic,2008," 101,910,800 ",UAE
+762,Tajikistan,2008, -   ,UAE
+764,Thailand,2008, -   ,UAE
+768,Togo,2008, -   ,UAE
+772,Tokelau,2008,,UAE
+776,Tonga,2008,,UAE
+780,Trinidad and Tobago,2008,,UAE
+784,United Arab Emirates,2008,,UAE
+788,Tunisia,2008, -   ,UAE
+792,Turkey,2008," 310,573,449 ",UAE
+795,Turkmenistan,2008, -   ,UAE
+796,Turks and Caicos Islands,2008,,UAE
+798,Tuvalu,2008,,UAE
+800,Uganda,2008, -   ,UAE
+804,Ukraine,2008, -   ,UAE
+807,The former Yugoslav Republic of Macedonia,2008, -   ,UAE
+818,Egypt,2008," 623,284,767 ",UAE
+826,United Kingdom of Great Britain and Northern Ireland,2008," 33,993,398,838 ",UAE
+830,Channel Islands,2008,,UAE
+831,Guernsey,2008,,UAE
+832,Jersey,2008,,UAE
+833,Isle of Man,2008," 299,259,428 ",UAE
+834,United Republic of Tanzania,2008, -   ,UAE
+840,United States of America,2008," 8,652,175,522 ",UAE
+850,United States Virgin Islands,2008, -   ,UAE
+854,Burkina Faso,2008, -   ,UAE
+858,Uruguay,2008, -   ,UAE
+860,Uzbekistan,2008, -   ,UAE
+862,Venezuela (Bolivarian Republic of),2008, -   ,UAE
+876,Wallis and Futuna Islands,2008,,UAE
+882,Samoa,2008,,UAE
+887,Yemen,2008, -   ,UAE
+894,Zambia,2008, -   ,UAE
+999,Other,2008," 84,405,545,836 ",UAE
+4,Afghanistan,2007, -   ,UAE
+8,Albania,2007, -   ,UAE
+12,Algeria,2007, -   ,UAE
+16,American Samoa,2007,,UAE
+20,Andorra,2007,,UAE
+24,Angola,2007, -   ,UAE
+28,Antigua and Barbuda,2007,,UAE
+31,Azerbaijan,2007, -   ,UAE
+32,Argentina,2007, -   ,UAE
+36,Australia,2007," 331,808,474 ",UAE
+40,Austria,2007," 15,656,435 ",UAE
+44,Bahamas,2007, -   ,UAE
+48,Bahrain,2007," 393,249,097 ",UAE
+50,Bangladesh,2007, -   ,UAE
+51,Armenia,2007, -   ,UAE
+52,Barbados,2007, -   ,UAE
+56,Belgium,2007," 710,390,805 ",UAE
+60,Bermuda,2007," 103,916,434 ",UAE
+64,Bhutan,2007,,UAE
+68,Bolivia (Plurinational State of),2007, -   ,UAE
+70,Bosnia and Herzegovina,2007, -   ,UAE
+72,Botswana,2007, -   ,UAE
+76,Brazil,2007, -   ,UAE
+84,Belize,2007, -   ,UAE
+90,Solomon Islands,2007,,UAE
+92,British Virgin Islands,2007, -   ,UAE
+96,Brunei Darussalam,2007, -   ,UAE
+100,Bulgaria,2007, -   ,UAE
+104,Myanmar,2007, -   ,UAE
+108,Burundi,2007, -   ,UAE
+112,Belarus,2007," 8,163,734 ",UAE
+116,Cambodia,2007,,UAE
+120,Cameroon,2007, -   ,UAE
+124,Canada,2007," 64,440,098 ",UAE
+132,Cabo Verde,2007,,UAE
+136,Cayman Islands,2007," 81,500,301 ",UAE
+140,Central African Republic,2007, -   ,UAE
+144,Sri Lanka,2007," 22,767,213 ",UAE
+148,Chad,2007, -   ,UAE
+152,Chile,2007," 30,175,057 ",UAE
+156,China,2007," 37,476,919 ",UAE
+170,Colombia,2007," 95,969,121 ",UAE
+174,Comoros,2007, -   ,UAE
+175,Mayotte,2007,,UAE
+178,Congo,2007, -   ,UAE
+180,Democratic Republic of the Congo,2007,,UAE
+184,Cook Islands,2007,,UAE
+188,Costa Rica,2007, -   ,UAE
+191,Croatia,2007, -   ,UAE
+192,Cuba,2007, -   ,UAE
+196,Cyprus,2007," 285,040,774 ",UAE
+203,Czech Republic,2007, -   ,UAE
+204,Benin,2007, -   ,UAE
+208,Denmark,2007," 26,202,257 ",UAE
+212,Dominica,2007, -   ,UAE
+214,Dominican Republic,2007, -   ,UAE
+218,Ecuador,2007, -   ,UAE
+222,El Salvador,2007, -   ,UAE
+226,Equatorial Guinea,2007,,UAE
+231,Ethiopia,2007, -   ,UAE
+232,Eritrea,2007, -   ,UAE
+233,Estonia,2007, -   ,UAE
+234,Faeroe Islands,2007,,UAE
+238,Falkland Islands (Malvinas),2007,,UAE
+242,Fiji,2007,,UAE
+246,Finland,2007," 21,885,079 ",UAE
+248,Åland Islands,2007,,UAE
+250,France,2007," 612,987,491 ",UAE
+254,French Guiana,2007,,UAE
+258,French Polynesia,2007,,UAE
+262,Djibouti,2007, -   ,UAE
+266,Gabon,2007, -   ,UAE
+268,Georgia,2007, -   ,UAE
+270,Gambia,2007,,UAE
+275,State of Palestine,2007, -   ,UAE
+276,Germany,2007," 395,314,419 ",UAE
+288,Ghana,2007, -   ,UAE
+292,Gibraltar,2007,,UAE
+296,Kiribati,2007,,UAE
+300,Greece,2007," 18,364,368 ",UAE
+304,Greenland,2007,,UAE
+308,Grenada,2007, -   ,UAE
+312,Guadeloupe,2007,,UAE
+316,Guam,2007,,UAE
+320,Guatemala,2007,,UAE
+324,Guinea,2007, -   ,UAE
+328,Guyana,2007,,UAE
+332,Haiti,2007, -   ,UAE
+336,Holy See,2007,,UAE
+340,Honduras,2007,,UAE
+344,"China, Hong Kong Special Administrative Region",2007," 624,517,961 ",UAE
+348,Hungary,2007, -   ,UAE
+352,Iceland,2007," 361,608,769 ",UAE
+356,India,2007," 5,821,061,482 ",UAE
+360,Indonesia,2007, -   ,UAE
+364,Iran (Islamic Republic of),2007," 899,803,803 ",UAE
+368,Iraq,2007, -   ,UAE
+372,Ireland,2007," 25,966,144 ",UAE
+376,Israel,2007,,UAE
+380,Italy,2007," 183,878,261 ",UAE
+384,Cote d'Ivoire,2007, -   ,UAE
+388,Jamaica,2007, -   ,UAE
+392,Japan,2007," 9,668,742,738 ",UAE
+398,Kazakhstan,2007, -   ,UAE
+400,Jordan,2007," 1,137,605,196 ",UAE
+404,Kenya,2007," 63,499,182 ",UAE
+410,Republic of Korea,2007, -   ,UAE
+410,Republic of Korea,2007," 974,809,934 ",UAE
+414,Kuwait,2007," 11,614,894,947 ",UAE
+417,Kyrgyzstan,2007, -   ,UAE
+418,Lao People's Democratic Republic,2007,,UAE
+422,Lebanon,2007," 956,823,323 ",UAE
+426,Lesotho,2007, -   ,UAE
+428,Latvia,2007, -   ,UAE
+430,Liberia,2007, -   ,UAE
+434,Libya,2007, -   ,UAE
+438,Liechtenstein,2007, -   ,UAE
+440,Lithuania,2007," 300,000 ",UAE
+442,Luxembourg,2007," 64,030,912 ",UAE
+156,TAIWAN,2007," 796,163,438 ",UAE
+450,Madagascar,2007, -   ,UAE
+454,Malawi,2007, -   ,UAE
+458,Malaysia,2007," 47,954,078 ",UAE
+462,Maldives,2007, -   ,UAE
+466,Mali,2007, -   ,UAE
+470,Malta,2007, -   ,UAE
+474,Martinique,2007,,UAE
+478,Mauritania,2007, -   ,UAE
+480,Mauritius,2007," 52,664,998 ",UAE
+484,Mexico,2007, -   ,UAE
+492,Monaco,2007,,UAE
+496,Mongolia,2007,,UAE
+498,Republic of Moldova,2007, -   ,UAE
+499,Montenegro,2007,,UAE
+500,Montserrat,2007,,UAE
+504,Morocco,2007, -   ,UAE
+508,Mozambique,2007, -   ,UAE
+512,Oman,2007," 137,657,333 ",UAE
+516,Namibia,2007, -   ,UAE
+520,Nauru,2007,,UAE
+524,Nepal,2007, -   ,UAE
+528,Netherlands,2007," 1,520,080,480 ",UAE
+531,Curaçao,2007,,UAE
+533,Aruba,2007, -   ,UAE
+534,Sint Maarten (Dutch part),2007,,UAE
+540,New Caledonia,2007,,UAE
+548,Vanuatu,2007,,UAE
+554,New Zealand,2007, -   ,UAE
+558,Nicaragua,2007,,UAE
+562,Niger,2007, -   ,UAE
+566,Nigeria,2007, -   ,UAE
+570,Niue,2007,,UAE
+574,Norfolk Island,2007,,UAE
+578,Norway,2007," 1,832,382 ",UAE
+580,Northern Mariana Islands,2007,,UAE
+583,Micronesia (Federated States of),2007,,UAE
+584,Marshall Islands,2007, -   ,UAE
+585,Palau,2007, -   ,UAE
+586,Pakistan,2007," 618,829,219 ",UAE
+591,Panama,2007," 1,494,016 ",UAE
+598,Papua New Guinea,2007, -   ,UAE
+600,Paraguay,2007, -   ,UAE
+604,Peru,2007, -   ,UAE
+608,Philippines,2007, -   ,UAE
+612,Pitcairn,2007,,UAE
+616,Poland,2007, -   ,UAE
+620,Portugal,2007," 27,833,359 ",UAE
+624,Guinea-Bissau,2007,,UAE
+626,Timor-Leste,2007,,UAE
+630,Puerto Rico,2007, -   ,UAE
+634,Qatar,2007," 1,262,093,618 ",UAE
+638,Réunion,2007,,UAE
+642,Romania,2007, -   ,UAE
+643,Russian Federation,2007," 35,335,590 ",UAE
+646,Rwanda,2007, -   ,UAE
+654,Saint Helena,2007,,UAE
+659,Saint Kitts and Nevis,2007, -   ,UAE
+660,Anguilla,2007,,UAE
+662,Saint Lucia,2007,,UAE
+663,Saint Martin (French part),2007,,UAE
+666,Saint Pierre and Miquelon,2007,,UAE
+670,Saint Vincent and the Grenadines,2007,,UAE
+674,San Marino,2007,,UAE
+678,Sao Tome and Principe,2007,,UAE
+680,Sark,2007,,UAE
+682,Saudi Arabia,2007," 7,891,312,174 ",UAE
+686,Senegal,2007, -   ,UAE
+688,Serbia,2007, -   ,UAE
+690,Seychelles,2007," 13,743,430 ",UAE
+694,Sierra Leone,2007, -   ,UAE
+702,Singapore,2007," 401,641,143 ",UAE
+703,Slovakia,2007, -   ,UAE
+704,Viet Nam,2007, -   ,UAE
+705,Slovenia,2007, -   ,UAE
+706,Somalia,2007, -   ,UAE
+710,South Africa,2007," 114,597,443 ",UAE
+716,Zimbabwe,2007, -   ,UAE
+724,Spain,2007," 1,000,000 ",UAE
+728,South Sudan,2007,,UAE
+729,Sudan,2007," 11,485,090 ",UAE
+732,Western Sahara,2007,,UAE
+740,Suriname,2007, -   ,UAE
+744,Svalbard and Jan Mayen Islands,2007,,UAE
+748,Swaziland,2007, -   ,UAE
+752,Sweden,2007," 3,747,038 ",UAE
+756,Switzerland,2007," 1,197,575,628 ",UAE
+760,Syrian Arab Republic,2007," 102,834,500 ",UAE
+762,Tajikistan,2007, -   ,UAE
+764,Thailand,2007, -   ,UAE
+768,Togo,2007, -   ,UAE
+772,Tokelau,2007,,UAE
+776,Tonga,2007,,UAE
+780,Trinidad and Tobago,2007,,UAE
+784,United Arab Emirates,2007,,UAE
+788,Tunisia,2007, -   ,UAE
+792,Turkey,2007," 313,968,966 ",UAE
+795,Turkmenistan,2007, -   ,UAE
+796,Turks and Caicos Islands,2007,,UAE
+798,Tuvalu,2007,,UAE
+800,Uganda,2007, -   ,UAE
+804,Ukraine,2007, -   ,UAE
+807,The former Yugoslav Republic of Macedonia,2007, -   ,UAE
+818,Egypt,2007," 230,060,947 ",UAE
+826,United Kingdom of Great Britain and Northern Ireland,2007," 21,420,502,940 ",UAE
+830,Channel Islands,2007,,UAE
+831,Guernsey,2007,,UAE
+832,Jersey,2007,,UAE
+833,Isle of Man,2007," 333,787,494 ",UAE
+834,United Republic of Tanzania,2007, -   ,UAE
+840,United States of America,2007," 3,763,275,516 ",UAE
+850,United States Virgin Islands,2007, -   ,UAE
+854,Burkina Faso,2007, -   ,UAE
+858,Uruguay,2007, -   ,UAE
+860,Uzbekistan,2007, -   ,UAE
+862,Venezuela (Bolivarian Republic of),2007, -   ,UAE
+876,Wallis and Futuna Islands,2007,,UAE
+882,Samoa,2007,,UAE
+887,Yemen,2007, -   ,UAE
+894,Zambia,2007, -   ,UAE
+999,Other,2007," 62,174,711,221 ",UAE
